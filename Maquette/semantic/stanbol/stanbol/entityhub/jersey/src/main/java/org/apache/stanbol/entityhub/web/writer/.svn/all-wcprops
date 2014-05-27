@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/writer
+END
+ResultListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/writer/ResultListWriter.java
+END
+EntityWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/writer/EntityWriter.java
+END
+ModelWriterTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/writer/ModelWriterTracker.java
+END
+RepresentationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/writer/RepresentationWriter.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/indexedgraph/src/main/java/org/apache/stanbol/commons/indexedgraph
+END
+IndexedGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/indexedgraph/src/main/java/org/apache/stanbol/commons/indexedgraph/IndexedGraph.java
+END
+IndexedTripleCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/indexedgraph/src/main/java/org/apache/stanbol/commons/indexedgraph/IndexedTripleCollection.java
+END
+IndexedMGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/indexedgraph/src/main/java/org/apache/stanbol/commons/indexedgraph/IndexedMGraph.java
+END

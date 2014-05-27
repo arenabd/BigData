@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile
+END
+catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/catalog.xml
+END
+RuledProvaParentRDFXML.owl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/RuledProvaParentRDFXML.owl
+END
+OnlyRuledProvaParentRDFXML.owl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/OnlyRuledProvaParentRDFXML.owl
+END
+RuledProvaParent.owl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/RuledProvaParent.owl
+END
+OnlyRuledProvaParent.owl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/OnlyRuledProvaParent.owl
+END
+ProvaParent.owl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/main/resources/TestFile/ProvaParent.owl
+END

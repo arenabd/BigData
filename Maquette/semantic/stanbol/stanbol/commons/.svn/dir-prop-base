@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 112
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+.pom.xml.swp
+
+K 13
+svn:mergeinfo
+V 101
+/stanbol/branches/release-0.12/commons:1572583,1572588,1589341
+/stanbol/trunk/commons:1487448-1496831
+END

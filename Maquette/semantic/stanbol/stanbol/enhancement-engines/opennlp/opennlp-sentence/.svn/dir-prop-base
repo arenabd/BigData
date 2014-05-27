@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 40
+.settings
+
+.classpath
+
+target
+
+.project
+
+K 13
+svn:mergeinfo
+V 526
+/incubator/stanbol/branches/dbpedia-spotlight-engines/engines/opennlp-sentence:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/engines/opennlp-sentence:1386989-1388016
+/stanbol/branches/STANBOL-913/opennlp/opennlp-sentence:1443935-1448276
+/stanbol/branches/stanbol-nlp-processing/enhancer/engines/opennlp-sentence:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancement-engines/opennlp/opennlp-sentence:1455112-1458685
+/stanbol/trunk/enhancement-engines/opennlp/opennlp-sentence:1496360-1533530
+END

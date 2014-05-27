@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587568/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources
+END
+ScopeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1587568/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/ScopeResource.java
+END
+OntoNetRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1587568/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/OntoNetRootResource.java
+END
+SessionManagerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/SessionManagerResource.java
+END
+AbstractOntologyAccessResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/AbstractOntologyAccessResource.java
+END
+RegistryManagerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/RegistryManagerResource.java
+END
+SessionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/SessionResource.java
+END
+ScopeManagerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/java/org/apache/stanbol/ontologymanager/web/resources/ScopeManagerResource.java
+END

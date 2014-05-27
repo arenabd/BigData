@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms
+END
+LessThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LessThanAtom.java
+END
+LengthAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LengthAtom.java
+END
+IsBlankAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/IsBlankAtom.java
+END
+DivisionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/DivisionAtom.java
+END
+EndsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/EndsWithAtom.java
+END
+ResourceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/ResourceAtom.java
+END
+UnionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/UnionAtom.java
+END
+LocalNameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LocalNameAtom.java
+END
+AbstractRuleAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/AbstractRuleAtom.java
+END
+NamespaceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NamespaceAtom.java
+END
+IndividualPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/IndividualPropertyAtom.java
+END
+NewIRIAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NewIRIAtom.java
+END
+ExpressionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/ExpressionAtom.java
+END
+GreaterThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/GreaterThanAtom.java
+END
+RuleBlankNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/RuleBlankNode.java
+END
+ClassAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/ClassAtom.java
+END
+DifferentAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/DifferentAtom.java
+END
+StringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/StringAtom.java
+END
+StrAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/StrAtom.java
+END
+NumericVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NumericVariableAtom.java
+END
+StringVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/StringVariableAtom.java
+END
+DatavaluedPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/DatavaluedPropertyAtom.java
+END
+IObjectAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/IObjectAtom.java
+END
+SubstringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/SubstringAtom.java
+END
+LowerCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LowerCaseAtom.java
+END
+LetAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LetAtom.java
+END
+VariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/VariableAtom.java
+END
+SameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/SameAtom.java
+END
+UpperCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/UpperCaseAtom.java
+END
+CoreAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/CoreAtom.java
+END
+NumberAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NumberAtom.java
+END
+UObjectAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/UObjectAtom.java
+END
+GreaterEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/GreaterEqualThanAtom.java
+END
+MultiplicationAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/MultiplicationAtom.java
+END
+BlankNodeAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/BlankNodeAtom.java
+END
+SubtractionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/SubtractionAtom.java
+END
+NotAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NotAtom.java
+END
+TypedLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/TypedLiteralAtom.java
+END
+CreateLabelAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/CreateLabelAtom.java
+END
+SumAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/SumAtom.java
+END
+NewLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NewLiteralAtom.java
+END
+PropStringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/PropStringAtom.java
+END
+ConcatAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/ConcatAtom.java
+END
+NumericFunctionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/NumericFunctionAtom.java
+END
+LessEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/LessEqualThanAtom.java
+END
+ComparisonAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/ComparisonAtom.java
+END
+StartsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/StartsWithAtom.java
+END
+StringFunctionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/StringFunctionAtom.java
+END
+RuleAtomCallExeption.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/atoms/RuleAtomCallExeption.java
+END

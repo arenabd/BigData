@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl
+END
+EntityhubSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl/EntityhubSearcher.java
+END
+EntitySearcherUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl/EntitySearcherUtils.java
+END
+TrackingEntitySearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl/TrackingEntitySearcher.java
+END
+OpenNlpAnalysedContentFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl/OpenNlpAnalysedContentFactory.java
+END
+ReferencedSiteSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/main/java/org/apache/stanbol/enhancer/engines/keywordextraction/linking/impl/ReferencedSiteSearcher.java
+END

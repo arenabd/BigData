@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector
+END
+Lockable.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/Lockable.java
+END
+UnmodifiableOntologyCollectorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/UnmodifiableOntologyCollectorException.java
+END
+IrremovableOntologyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/IrremovableOntologyException.java
+END
+OntologyCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/OntologyCollector.java
+END
+MissingOntologyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/MissingOntologyException.java
+END
+OntologyCollectorListenable.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/OntologyCollectorListenable.java
+END
+DuplicateIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/DuplicateIDException.java
+END
+OntologyCollectorModificationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/OntologyCollectorModificationException.java
+END
+ImportManagementPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/ImportManagementPolicy.java
+END
+OntologyCollectorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/collector/OntologyCollectorListener.java
+END

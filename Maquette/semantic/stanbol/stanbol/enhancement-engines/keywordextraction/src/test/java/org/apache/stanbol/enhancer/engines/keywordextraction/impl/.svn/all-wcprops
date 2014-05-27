@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/test/java/org/apache/stanbol/enhancer/engines/keywordextraction/impl
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/test/java/org/apache/stanbol/enhancer/engines/keywordextraction/impl/MockComponentContext.java
+END
+ClasspathDataFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/test/java/org/apache/stanbol/enhancer/engines/keywordextraction/impl/ClasspathDataFileProvider.java
+END
+TestSearcherImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/keywordextraction/src/test/java/org/apache/stanbol/enhancer/engines/keywordextraction/impl/TestSearcherImpl.java
+END

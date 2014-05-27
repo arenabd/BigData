@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Outputs::CSV new lines are quoted properly" tests="1" time="0.011" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Outputs::CSV new lines are quoted properly agent(/home/jenkins/workspace/Logstash_Nightly/logstash/spec/outputs/csv.rb:123:in) runs" time="0.01">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

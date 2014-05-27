@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/imports
+END
+serviceDescription.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/imports/serviceDescription.ftl
+END
+reasonersDescription.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/imports/reasonersDescription.ftl
+END
+taskDescription.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/imports/taskDescription.ftl
+END

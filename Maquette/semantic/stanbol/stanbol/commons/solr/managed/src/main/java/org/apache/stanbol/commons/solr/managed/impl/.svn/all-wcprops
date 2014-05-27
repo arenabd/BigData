@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/impl
+END
+ManagedIndexMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/impl/ManagedIndexMetadata.java
+END
+ManagedSolrServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/impl/ManagedSolrServerImpl.java
+END
+ReferencedSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/impl/ReferencedSolrServer.java
+END

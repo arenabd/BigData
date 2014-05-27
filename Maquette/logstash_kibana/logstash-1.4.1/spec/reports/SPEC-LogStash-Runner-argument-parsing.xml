@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Runner argument parsing" tests="4" time="0.01" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Runner argument parsing should run agent" time="0.003">
+  </testcase>
+  <testcase name="LogStash::Runner argument parsing should run agent help" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Runner argument parsing should run agent help and not run following commands" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Runner argument parsing should run agent and web" time="0.003">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

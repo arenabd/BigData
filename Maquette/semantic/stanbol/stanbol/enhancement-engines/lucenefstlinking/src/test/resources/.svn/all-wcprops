@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources/log4j.properties
+END
+merkel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources/merkel.txt
+END
+merkel_nlp.json
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources/merkel_nlp.json
+END

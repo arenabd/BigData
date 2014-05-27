@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils
+END
+ConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/ConfigUtils.java
+END
+DataFileResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/DataFileResourceLoader.java
+END
+StreamQueryRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/StreamQueryRequest.java
+END
+RegisteredSolrAnalyzerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/RegisteredSolrAnalyzerFactory.java
+END
+SolrUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/SolrUtil.java
+END
+AbstractAnalyzerFactoryActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/AbstractAnalyzerFactoryActivator.java
+END
+ServiceReferenceRankingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/ServiceReferenceRankingComparator.java
+END
+StanbolResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/utils/StanbolResourceLoader.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/imports-disconnected
+END
+abox.owl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/imports-disconnected/abox.owl
+END
+tbox.owl
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/imports-disconnected/tbox.owl
+END

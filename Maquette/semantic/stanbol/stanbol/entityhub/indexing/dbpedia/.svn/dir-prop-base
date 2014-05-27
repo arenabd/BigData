@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 109
+dbPedia-rdf-data
+
+data
+
+incoming-counts.tsv
+
+target
+.classpath
+.settings
+.project
+dependency-reduced-pom.xml
+
+END

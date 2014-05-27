@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1551559/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/commons/httpqueryheaders/it
+END
+HttpQueryHeaderPostTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/commons/httpqueryheaders/it/HttpQueryHeaderPostTest.java
+END
+HttpQueryHeaderGetTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1551559/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/commons/httpqueryheaders/it/HttpQueryHeaderGetTest.java
+END

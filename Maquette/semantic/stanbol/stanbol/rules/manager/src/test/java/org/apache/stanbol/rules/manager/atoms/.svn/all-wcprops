@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms
+END
+IndividualPropertyAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/IndividualPropertyAtomTest.java
+END
+AtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/AtomTest.java
+END
+DatavaluedPropertyAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/DatavaluedPropertyAtomTest.java
+END
+LessThanAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/LessThanAtomTest.java
+END
+GreaterThanAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/GreaterThanAtomTest.java
+END
+ClassAtomTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/test/java/org/apache/stanbol/rules/manager/atoms/ClassAtomTest.java
+END

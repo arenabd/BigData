@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/topic/engine/src/main/java/org/apache/stanbol/enhancer/topic
+END
+UTCTimeStamper.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/topic/engine/src/main/java/org/apache/stanbol/enhancer/topic/UTCTimeStamper.java
+END
+EmbeddedSolrHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/main/java/org/apache/stanbol/enhancer/topic/EmbeddedSolrHelper.java
+END
+ConfiguredSolrCoreTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/main/java/org/apache/stanbol/enhancer/topic/ConfiguredSolrCoreTracker.java
+END

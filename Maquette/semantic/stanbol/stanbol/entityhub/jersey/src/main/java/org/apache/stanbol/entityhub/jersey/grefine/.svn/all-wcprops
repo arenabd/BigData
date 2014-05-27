@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/grefine
+END
+ReconcileProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/grefine/ReconcileProperty.java
+END
+ReconcileQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/grefine/ReconcileQuery.java
+END
+ReconcileValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/grefine/ReconcileValue.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/grefine/Utils.java
+END

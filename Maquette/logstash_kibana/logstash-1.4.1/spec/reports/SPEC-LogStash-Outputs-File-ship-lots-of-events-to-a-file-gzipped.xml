@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Outputs::File ship lots of events to a file gzipped" tests="1" time="0.542" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Outputs::File ship lots of events to a file gzipped agent(/home/jenkins/workspace/Logstash_Nightly/logstash/spec/outputs/file.rb:60:in) runs" time="0.54">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

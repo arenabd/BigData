@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1587576/stanbol/trunk/enhancement-engines/entitytagging/src/test/java/org/apache/stanbol/enhancer/engines/entitytagging/impl
+END
+DbPediaDataFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitytagging/src/test/java/org/apache/stanbol/enhancer/engines/entitytagging/impl/DbPediaDataFileProvider.java
+END
+TestEntityLinkingEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1587576/stanbol/trunk/enhancement-engines/entitytagging/src/test/java/org/apache/stanbol/enhancer/engines/entitytagging/impl/TestEntityLinkingEnhancementEngine.java
+END
+MockEntityhub.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitytagging/src/test/java/org/apache/stanbol/enhancer/engines/entitytagging/impl/MockEntityhub.java
+END

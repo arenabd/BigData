@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/test/java/org/apache/stanbol/enhancer/engines/kuromoji/impl
+END
+TestKuromojiNlpEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/test/java/org/apache/stanbol/enhancer/engines/kuromoji/impl/TestKuromojiNlpEngine.java
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/test/java/org/apache/stanbol/enhancer/engines/kuromoji/impl/MockComponentContext.java
+END
+ClasspathDataFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/test/java/org/apache/stanbol/enhancer/engines/kuromoji/impl/ClasspathDataFileProvider.java
+END

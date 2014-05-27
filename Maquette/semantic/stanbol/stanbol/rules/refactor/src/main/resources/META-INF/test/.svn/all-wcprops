@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/resources/META-INF/test
+END
+testKReSOnt.owl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/resources/META-INF/test/testKReSOnt.owl
+END
+rmi.owl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/resources/META-INF/test/rmi.owl
+END
+rmi_config.owl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/resources/META-INF/test/rmi_config.owl
+END

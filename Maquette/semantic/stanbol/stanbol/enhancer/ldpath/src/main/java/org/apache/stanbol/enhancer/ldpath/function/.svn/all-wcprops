@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancer/ldpath/src/main/java/org/apache/stanbol/enhancer/ldpath/function
+END
+SuggestionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancer/ldpath/src/main/java/org/apache/stanbol/enhancer/ldpath/function/SuggestionFunction.java
+END
+ContentItemFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancer/ldpath/src/main/java/org/apache/stanbol/enhancer/ldpath/function/ContentItemFunction.java
+END
+ContentFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancer/ldpath/src/main/java/org/apache/stanbol/enhancer/ldpath/function/ContentFunction.java
+END
+PathFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancer/ldpath/src/main/java/org/apache/stanbol/enhancer/ldpath/function/PathFunction.java
+END

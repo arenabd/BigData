@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/zemanta/src/main/java/org/apache/stanbol/enhancer/engines/zemanta/impl
+END
+ZemantaPropertyEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/zemanta/src/main/java/org/apache/stanbol/enhancer/engines/zemanta/impl/ZemantaPropertyEnum.java
+END
+ZemantaAPIWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/zemanta/src/main/java/org/apache/stanbol/enhancer/engines/zemanta/impl/ZemantaAPIWrapper.java
+END
+ZemantaEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/zemanta/src/main/java/org/apache/stanbol/enhancer/engines/zemanta/impl/ZemantaEnhancementEngine.java
+END

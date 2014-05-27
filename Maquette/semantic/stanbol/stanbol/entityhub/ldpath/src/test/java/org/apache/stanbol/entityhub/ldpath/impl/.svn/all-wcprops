@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/ldpath/src/test/java/org/apache/stanbol/entityhub/ldpath/impl
+END
+LDPathTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/ldpath/src/test/java/org/apache/stanbol/entityhub/ldpath/impl/LDPathTestBase.java
+END
+DbPediaDatadefaultDataFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/ldpath/src/test/java/org/apache/stanbol/entityhub/ldpath/impl/DbPediaDatadefaultDataFileProvider.java
+END

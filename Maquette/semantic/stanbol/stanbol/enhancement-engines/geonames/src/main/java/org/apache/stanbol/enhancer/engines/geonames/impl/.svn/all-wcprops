@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl
+END
+Toponym.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl/Toponym.java
+END
+GeonamesAPIWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl/GeonamesAPIWrapper.java
+END
+RequestProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl/RequestProperty.java
+END
+FeatureClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl/FeatureClass.java
+END
+LocationEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/main/java/org/apache/stanbol/enhancer/engines/geonames/impl/LocationEnhancementEngine.java
+END

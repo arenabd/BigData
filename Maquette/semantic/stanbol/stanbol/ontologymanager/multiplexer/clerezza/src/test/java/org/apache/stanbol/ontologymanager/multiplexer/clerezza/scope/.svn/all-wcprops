@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/scope
+END
+TestAxiomInterpretation.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/scope/TestAxiomInterpretation.java
+END
+TestOntologySpaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/scope/TestOntologySpaces.java
+END
+TestClerezzaSpaces.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/scope/TestClerezzaSpaces.java
+END

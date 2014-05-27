@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 40
+.project
+
+target
+
+.settings
+
+.classpath
+
+K 13
+svn:mergeinfo
+V 656
+/incubator/stanbol/branches/dbpedia-spotlight-engines/generic/servicesapi:1374978-1386535
+/incubator/stanbol/branches/disambiguation-engine/generic/servicesapi:1377975-1388016
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/generic/servicesapi:1386989-1388016
+/incubator/stanbol/trunk/enhancer/generic/servicesapi:1339554,1339557-1339558
+/stanbol/branches/disambiguation-engine/generic/servicesapi:1388017-1403900
+/stanbol/branches/release-0.12/enhancer/generic/servicesapi:1587860
+/stanbol/branches/stanbol-nlp-processing/enhancer/generic/servicesapi:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancer/generic/servicesapi:1455112-1458685
+END

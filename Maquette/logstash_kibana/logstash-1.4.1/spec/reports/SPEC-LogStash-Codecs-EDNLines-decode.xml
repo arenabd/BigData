@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::EDNLines#decode" tests="2" time="0.079" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::EDNLines#decode should return an event from edn data" time="0.059">
+  </testcase>
+  <testcase name="LogStash::Codecs::EDNLines#decode should return an event from edn data when a newline is recieved" time="0.019">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

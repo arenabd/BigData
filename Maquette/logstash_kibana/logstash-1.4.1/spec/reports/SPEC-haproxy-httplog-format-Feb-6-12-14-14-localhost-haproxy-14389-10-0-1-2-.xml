@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="haproxy httplog format &quot;Feb  6 12:14:14 localhost haproxy[14389]: 10.0.1.2:...&quot;" tests="1" time="0.14" failures="0" errors="0" skipped="0">
+  <testcase name="haproxy httplog format &quot;Feb  6 12:14:14 localhost haproxy[14389]: 10.0.1.2:...&quot; when processed" time="0.14">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

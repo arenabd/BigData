@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Clone all defaults &quot;{&quot;message&quot;:&quot;hello world&quot;,&quot;type&quot;:&quot;original&quot;}&quot;" tests="1" time="0.021" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Clone all defaults &quot;{&quot;message&quot;:&quot;hello world&quot;,&quot;type&quot;:&quot;original&quot;}&quot; when processed" time="0.02">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

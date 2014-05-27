@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders
+END
+LtEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/LtEncoder.java
+END
+LeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/LeEncoder.java
+END
+LangEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/LangEncoder.java
+END
+FieldEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/FieldEncoder.java
+END
+AssignmentEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/AssignmentEncoder.java
+END
+WildcardEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/WildcardEncoder.java
+END
+GtEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/GtEncoder.java
+END
+RegexEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/RegexEncoder.java
+END
+DataTypeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/DataTypeEncoder.java
+END
+GeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/impl/queryencoders/GeEncoder.java
+END

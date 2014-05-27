@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker
+END
+PhraseBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker/PhraseBuilder.java
+END
+PhraseTypeDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker/PhraseTypeDefinition.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html
+END
+CharsetRecognizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/CharsetRecognizer.java
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/HtmlParser.java
+END
+HtmlTextExtractUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/HtmlTextExtractUtil.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/InitializationException.java
+END
+XsltExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/XsltExtractor.java
+END
+IksHtmlExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/IksHtmlExtractor.java
+END
+HtmlExtractionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/HtmlExtractionComponent.java
+END
+HtmlExtractorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/HtmlExtractorFactory.java
+END
+BundleURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/BundleURIResolver.java
+END
+DomSerializer2.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/DomSerializer2.java
+END
+HtmlExtractionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/HtmlExtractionRegistry.java
+END
+DOMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/metaxa/src/main/java/org/apache/stanbol/enhancer/engines/metaxa/core/html/DOMUtils.java
+END

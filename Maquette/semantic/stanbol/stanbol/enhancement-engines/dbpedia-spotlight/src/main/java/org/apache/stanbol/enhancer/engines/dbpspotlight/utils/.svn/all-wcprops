@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/dbpedia-spotlight/src/main/java/org/apache/stanbol/enhancer/engines/dbpspotlight/utils
+END
+XMLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/dbpedia-spotlight/src/main/java/org/apache/stanbol/enhancer/engines/dbpspotlight/utils/XMLParser.java
+END
+SpotlightEngineUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/dbpedia-spotlight/src/main/java/org/apache/stanbol/enhancer/engines/dbpspotlight/utils/SpotlightEngineUtils.java
+END

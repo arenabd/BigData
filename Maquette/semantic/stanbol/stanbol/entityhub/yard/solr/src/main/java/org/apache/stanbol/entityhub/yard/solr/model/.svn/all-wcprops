@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model
+END
+IndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/IndexField.java
+END
+IndexValueFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/IndexValueFactory.java
+END
+UnsupportedIndexTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/UnsupportedIndexTypeException.java
+END
+IndexDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/IndexDataType.java
+END
+NoConverterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/NoConverterException.java
+END
+IndexValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/IndexValue.java
+END
+UnsupportedValueException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/UnsupportedValueException.java
+END
+FieldMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/FieldMapper.java
+END
+TypeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/model/TypeConverter.java
+END

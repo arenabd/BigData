@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1587862/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper
+END
+ExecutionMetadataHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/ExecutionMetadataHelper.java
+END
+ConfigUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/ConfigUtils.java
+END
+ContentItemHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/ContentItemHelper.java
+END
+EnhancementEngineHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1587862/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/EnhancementEngineHelper.java
+END
+ExecutionPlanHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/ExecutionPlanHelper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/helper/package.html
+END

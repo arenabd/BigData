@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Event#append when event field is nil" tests="2" time="0.007" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Event#append when event field is nil should add single value as string" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Event#append when event field is nil should add multi values as array" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

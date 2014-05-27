@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking
+END
+CorpusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/CorpusInfo.java
+END
+LinkableTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/LinkableTokenFilter.java
+END
+CorpusException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/CorpusException.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/Tag.java
+END
+Match.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/Match.java
+END
+FstLinkingEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1577155/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/FstLinkingEngine.java
+END
+FieldEncodingEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/FieldEncodingEnum.java
+END
+IndexConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1556137/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/IndexConfiguration.java
+END
+FstLinkingEngineComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/FstLinkingEngineComponent.java
+END
+ChainedTagClusterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534350/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/ChainedTagClusterReducer.java
+END
+CorpusCreationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/CorpusCreationTask.java
+END
+TaggingSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1556137/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/TaggingSession.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Date parsing with UNIX_MS &quot;{&quot;mydate&quot;:1000000000123}&quot;" tests="1" time="0.003" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Date parsing with UNIX_MS &quot;{&quot;mydate&quot;:1000000000123}&quot; when processed" time="0.003">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

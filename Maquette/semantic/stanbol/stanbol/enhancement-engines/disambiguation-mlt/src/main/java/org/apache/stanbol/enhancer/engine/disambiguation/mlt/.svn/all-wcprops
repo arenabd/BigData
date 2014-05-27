@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/disambiguation-mlt/src/main/java/org/apache/stanbol/enhancer/engine/disambiguation/mlt
+END
+SavedEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/disambiguation-mlt/src/main/java/org/apache/stanbol/enhancer/engine/disambiguation/mlt/SavedEntity.java
+END
+DisambiguatorEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/disambiguation-mlt/src/main/java/org/apache/stanbol/enhancer/engine/disambiguation/mlt/DisambiguatorEngine.java
+END
+Suggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/disambiguation-mlt/src/main/java/org/apache/stanbol/enhancer/engine/disambiguation/mlt/Suggestion.java
+END
+DisambiguationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/disambiguation-mlt/src/main/java/org/apache/stanbol/enhancer/engine/disambiguation/mlt/DisambiguationData.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1587561/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl
+END
+LiteralAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/LiteralAdapter.java
+END
+UriRefAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/UriRefAdapter.java
+END
+UriRef2ReferenceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/UriRef2ReferenceAdapter.java
+END
+NaturalTextFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/NaturalTextFilter.java
+END
+Literal2TextAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/Literal2TextAdapter.java
+END
+Resource2ValueAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1587561/stanbol/trunk/entityhub/model/clerezza/src/main/java/org/apache/stanbol/entityhub/model/clerezza/impl/Resource2ValueAdapter.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources/META-INF/services
+END
+org.apache.stanbol.commons.stanboltools.datafileprovider.DataFileProvider
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/test/resources/META-INF/services/org.apache.stanbol.commons.stanboltools.datafileprovider.DataFileProvider
+END

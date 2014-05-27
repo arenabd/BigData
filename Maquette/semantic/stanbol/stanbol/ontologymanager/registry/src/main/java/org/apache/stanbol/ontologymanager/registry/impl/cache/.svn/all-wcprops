@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1587512/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/cache
+END
+URIUnresolvableException.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/cache/URIUnresolvableException.java
+END
+ODPRegistryCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1587512/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/cache/ODPRegistryCacheManager.java
+END
+ODPRegistryCacheException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/cache/ODPRegistryCacheException.java
+END

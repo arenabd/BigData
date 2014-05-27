@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1587512/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api
+END
+NoSuchRuleInRecipeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/NoSuchRuleInRecipeException.java
+END
+RuleAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleAtom.java
+END
+Symbols.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1587512/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/Symbols.java
+END
+SPARQLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/SPARQLObject.java
+END
+RuleAtomCallExeption.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleAtomCallExeption.java
+END
+RecipeConstructionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RecipeConstructionException.java
+END
+RuleAdapterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleAdapterManager.java
+END
+AlreadyExistingRecipeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/AlreadyExistingRecipeException.java
+END
+NoSuchRecipeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/NoSuchRecipeException.java
+END
+NoRuleConfigurationFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/NoRuleConfigurationFoundException.java
+END
+Recipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/Recipe.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/Rule.java
+END
+URIResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/URIResource.java
+END
+RuleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleAdapter.java
+END
+Adaptable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/Adaptable.java
+END
+RecipeEliminationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RecipeEliminationException.java
+END
+UnavailableRuleObjectException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/UnavailableRuleObjectException.java
+END
+UnsupportedTypeForExportException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/UnsupportedTypeForExportException.java
+END
+RuleAdaptersFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleAdaptersFactory.java
+END
+RuleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/base/src/main/java/org/apache/stanbol/rules/base/api/RuleStore.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/dbpedia
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/dbpedia/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/README.md
+END
+fetch_prepare.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/fetch_prepare.sh
+END

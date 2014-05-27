@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config
+END
+dbpediamappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/dbpediamappings.txt
+END
+range.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/range.properties
+END
+minscore.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/minscore.properties
+END
+indexfieldconfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/indexfieldconfig.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/indexing.properties
+END
+minincoming.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/testConfigs/simple/indexing/config/minincoming.properties
+END

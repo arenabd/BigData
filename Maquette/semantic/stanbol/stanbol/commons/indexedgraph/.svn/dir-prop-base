@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 44
+bin
+.project
+
+.classpath
+
+.settings
+
+target
+
+K 13
+svn:mergeinfo
+V 51
+/stanbol/trunk/commons/indexedgraph:1487448-1524470
+END

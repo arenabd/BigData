@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/utils
+END
+LDPathHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/utils/LDPathHelper.java
+END
+JerseyUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1587534/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/utils/JerseyUtils.java
+END
+MessageBodyReaderUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/utils/MessageBodyReaderUtils.java
+END

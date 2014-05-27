@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1539347/stanbol/trunk/development/archetypes/stateless-webmodule/src/main/resources/archetype-resources
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1539347/stanbol/trunk/development/archetypes/stateless-webmodule/src/main/resources/archetype-resources/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1535013/stanbol/trunk/development/archetypes/stateless-webmodule/src/main/resources/archetype-resources/README.md
+END
+nbactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1535013/stanbol/trunk/development/archetypes/stateless-webmodule/src/main/resources/archetype-resources/nbactions.xml
+END

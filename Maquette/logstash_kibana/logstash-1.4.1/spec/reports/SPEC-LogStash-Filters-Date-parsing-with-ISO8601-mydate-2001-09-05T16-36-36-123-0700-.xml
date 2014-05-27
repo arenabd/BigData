@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Date parsing with ISO8601 &quot;{&quot;mydate&quot;:&quot;2001-09-05T16:36:36.123+0700&quot;}&quot;" tests="1" time="0.004" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Date parsing with ISO8601 &quot;{&quot;mydate&quot;:&quot;2001-09-05T16:36:36.123+0700&quot;}&quot; when processed" time="0.003">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

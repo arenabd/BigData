@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Mutate gsub on multiple fields &quot;{&quot;colors&quot;:&quot;One red car&quot;,&quot;shapes&quot;:&quot;Four red squares&quot;...&quot;" tests="1" time="0.005" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Mutate gsub on multiple fields &quot;{&quot;colors&quot;:&quot;One red car&quot;,&quot;shapes&quot;:&quot;Four red squares&quot;...&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

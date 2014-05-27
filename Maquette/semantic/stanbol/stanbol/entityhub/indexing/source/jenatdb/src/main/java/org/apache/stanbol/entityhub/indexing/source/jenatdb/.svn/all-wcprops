@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/Constants.java
+END
+RdfImportFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/RdfImportFilter.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/Utils.java
+END
+RdfIndexingSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/RdfIndexingSource.java
+END
+DestinationTripleGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/DestinationTripleGraph.java
+END
+AbstractTdbBackend.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/AbstractTdbBackend.java
+END
+RdfResourceImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/RdfResourceImporter.java
+END
+LiteralLanguageFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/LiteralLanguageFilter.java
+END
+ResourceFilterIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/ResourceFilterIterator.java
+END
+PropertyPrefixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/main/java/org/apache/stanbol/entityhub/indexing/source/jenatdb/PropertyPrefixFilter.java
+END

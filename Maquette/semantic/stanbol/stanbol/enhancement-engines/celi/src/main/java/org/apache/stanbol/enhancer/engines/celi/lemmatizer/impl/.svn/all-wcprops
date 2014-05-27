@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl
+END
+CeliLemmatizerEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl/CeliLemmatizerEnhancementEngine.java
+END
+LexicalEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl/LexicalEntry.java
+END
+LemmatizerClientHTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl/LemmatizerClientHTTP.java
+END
+CeliAnalyzedTextLemmatizerEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl/CeliAnalyzedTextLemmatizerEngine.java
+END
+Reading.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/lemmatizer/impl/Reading.java
+END

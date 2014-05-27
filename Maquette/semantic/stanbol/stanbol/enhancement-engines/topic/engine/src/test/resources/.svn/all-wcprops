@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/test/resources/log4j.properties
+END
+sample-scheme.skos.rdf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/test/resources/sample-scheme.skos.rdf.xml
+END

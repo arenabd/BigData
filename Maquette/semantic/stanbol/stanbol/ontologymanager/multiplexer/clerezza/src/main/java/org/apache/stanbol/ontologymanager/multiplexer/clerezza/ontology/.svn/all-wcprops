@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587512/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology
+END
+ClerezzaOWLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1587512/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/ClerezzaOWLUtils.java
+END
+MetaGraphManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/MetaGraphManager.java
+END
+ClerezzaOntologyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/ClerezzaOntologyProvider.java
+END

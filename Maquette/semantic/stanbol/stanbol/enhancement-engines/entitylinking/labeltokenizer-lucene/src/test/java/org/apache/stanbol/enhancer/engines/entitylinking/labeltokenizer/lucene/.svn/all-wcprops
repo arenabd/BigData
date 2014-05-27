@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-lucene/src/test/java/org/apache/stanbol/enhancer/engines/entitylinking/labeltokenizer/lucene
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-lucene/src/test/java/org/apache/stanbol/enhancer/engines/entitylinking/labeltokenizer/lucene/MockComponentContext.java
+END
+TokenizerAndTokenFIlterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-lucene/src/test/java/org/apache/stanbol/enhancer/engines/entitylinking/labeltokenizer/lucene/TokenizerAndTokenFIlterTest.java
+END
+LuceneLabelTokenizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-lucene/src/test/java/org/apache/stanbol/enhancer/engines/entitylinking/labeltokenizer/lucene/LuceneLabelTokenizerTest.java
+END

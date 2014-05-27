@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/inmemory
+END
+InMemoryContentItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/inmemory/InMemoryContentItemTest.java
+END
+InMemoryBlobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/inmemory/InMemoryBlobTest.java
+END
+InMemoryContentItemFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/inmemory/InMemoryContentItemFactoryTest.java
+END

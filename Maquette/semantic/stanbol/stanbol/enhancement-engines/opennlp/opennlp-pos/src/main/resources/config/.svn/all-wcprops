@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-pos/src/main/resources/config
+END
+org.apache.stanbol.enhancer.engines.pos.services.POSTaggingEngine-snml.config
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-pos/src/main/resources/config/org.apache.stanbol.enhancer.engines.pos.services.POSTaggingEngine-snml.config
+END

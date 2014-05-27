@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports
+END
+409.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports/409.ftl
+END
+inc_scope.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports/inc_scope.ftl
+END
+inc_sessionmgr.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports/inc_sessionmgr.ftl
+END
+inc_scopemgr.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports/inc_scopemgr.ftl
+END
+ontonetDescription.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/imports/ontonetDescription.ftl
+END

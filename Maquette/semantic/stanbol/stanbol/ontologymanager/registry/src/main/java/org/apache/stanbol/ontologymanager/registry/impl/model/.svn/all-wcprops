@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1587561/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/model
+END
+RegistryOntologyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/model/RegistryOntologyImpl.java
+END
+LibraryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1587561/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/model/LibraryImpl.java
+END
+RegistryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/model/RegistryImpl.java
+END
+AbstractRegistryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/impl/model/AbstractRegistryItem.java
+END

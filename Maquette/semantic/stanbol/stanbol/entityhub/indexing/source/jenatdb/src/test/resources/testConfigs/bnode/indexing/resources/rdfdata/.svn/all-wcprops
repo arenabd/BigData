@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/bnode/indexing/resources/rdfdata
+END
+bnode.nt
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/bnode/indexing/resources/rdfdata/bnode.nt
+END
+france.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/bnode/indexing/resources/rdfdata/france.rdf
+END

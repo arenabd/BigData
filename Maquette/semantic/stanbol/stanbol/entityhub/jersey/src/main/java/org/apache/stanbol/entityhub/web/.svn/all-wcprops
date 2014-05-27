@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web
+END
+ModelWriterRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1551134/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/ModelWriterRegistry.java
+END
+ModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1551134/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/ModelWriter.java
+END

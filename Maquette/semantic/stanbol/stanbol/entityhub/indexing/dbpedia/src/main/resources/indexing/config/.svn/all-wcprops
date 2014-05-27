@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config
+END
+entityTypes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/entityTypes.properties
+END
+mappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/mappings.txt
+END
+fst.config
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/fst.config
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/indexing.properties
+END
+iditerator.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/iditerator.properties
+END
+minincoming.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/minincoming.properties
+END
+scorerange.properties
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/scorerange.properties
+END
+fieldboosts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/fieldboosts.properties
+END

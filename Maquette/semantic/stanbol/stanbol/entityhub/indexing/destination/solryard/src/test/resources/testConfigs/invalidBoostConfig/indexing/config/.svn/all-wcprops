@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/invalidBoostConfig/indexing/config
+END
+fieldBoosts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/invalidBoostConfig/indexing/config/fieldBoosts.properties
+END
+indexFieldConfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/invalidBoostConfig/indexing/config/indexFieldConfig.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/invalidBoostConfig/indexing/config/indexing.properties
+END

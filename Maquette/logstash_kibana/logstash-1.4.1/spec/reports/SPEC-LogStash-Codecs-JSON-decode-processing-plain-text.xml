@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::JSON#decode processing plain text" tests="1" time="0.001" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::JSON#decode processing plain text falls back to plain text" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

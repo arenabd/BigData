@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sentiment/sentiws
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sentiment/sentiws/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sentiment/sentiws/README.md
+END
+download_models.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sentiment/sentiws/download_models.xml
+END

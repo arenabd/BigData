@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena
+END
+JenaOWLMiniReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena/JenaOWLMiniReasoningService.java
+END
+JenaRDFSReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena/JenaRDFSReasoningService.java
+END
+JenaReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena/JenaReasoningService.java
+END
+JenaOWLReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena/JenaOWLReasoningService.java
+END
+AbstractJenaReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/main/java/org/apache/stanbol/reasoners/jena/AbstractJenaReasoningService.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1587798/stanbol/trunk/commons/owl/src/test/java/org/apache/stanbol/commons/owl/transformation
+END
+OWLAPIToClerezzaConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/java/org/apache/stanbol/commons/owl/transformation/OWLAPIToClerezzaConverterTest.java
+END
+JenaToClerezzaConverterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/java/org/apache/stanbol/commons/owl/transformation/JenaToClerezzaConverterTest.java
+END
+ConversionTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1587798/stanbol/trunk/commons/owl/src/test/java/org/apache/stanbol/commons/owl/transformation/ConversionTester.java
+END

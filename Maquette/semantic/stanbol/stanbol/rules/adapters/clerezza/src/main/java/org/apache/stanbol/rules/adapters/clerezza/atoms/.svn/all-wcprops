@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms
+END
+LessEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LessEqualThanAtom.java
+END
+StartsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/StartsWithAtom.java
+END
+LessThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LessThanAtom.java
+END
+LengthAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LengthAtom.java
+END
+IsBlankAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/IsBlankAtom.java
+END
+DivisionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/DivisionAtom.java
+END
+EndsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/EndsWithAtom.java
+END
+ResourceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/ResourceAtom.java
+END
+UnionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/UnionAtom.java
+END
+LocalNameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LocalNameAtom.java
+END
+NamespaceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NamespaceAtom.java
+END
+IndividualPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/IndividualPropertyAtom.java
+END
+NewIRIAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NewIRIAtom.java
+END
+GreaterThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/GreaterThanAtom.java
+END
+ClassAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/ClassAtom.java
+END
+DifferentAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/DifferentAtom.java
+END
+StringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/StringAtom.java
+END
+NumericVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NumericVariableAtom.java
+END
+StrAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/StrAtom.java
+END
+StringVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/StringVariableAtom.java
+END
+DatavaluedPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/DatavaluedPropertyAtom.java
+END
+SubstringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/SubstringAtom.java
+END
+LetAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LetAtom.java
+END
+LowerCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/LowerCaseAtom.java
+END
+SameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/SameAtom.java
+END
+VariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/VariableAtom.java
+END
+UpperCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/UpperCaseAtom.java
+END
+NumberAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NumberAtom.java
+END
+UObjectAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/UObjectAtom.java
+END
+GreaterEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/GreaterEqualThanAtom.java
+END
+MultiplicationAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/MultiplicationAtom.java
+END
+SubtractionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/SubtractionAtom.java
+END
+BlankNodeAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/BlankNodeAtom.java
+END
+NotAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NotAtom.java
+END
+TypedLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/TypedLiteralAtom.java
+END
+CreateLabelAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/CreateLabelAtom.java
+END
+SumAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/SumAtom.java
+END
+NewLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/NewLiteralAtom.java
+END
+ConcatAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/ConcatAtom.java
+END
+PropStringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/clerezza/src/main/java/org/apache/stanbol/rules/adapters/clerezza/atoms/PropStringAtom.java
+END

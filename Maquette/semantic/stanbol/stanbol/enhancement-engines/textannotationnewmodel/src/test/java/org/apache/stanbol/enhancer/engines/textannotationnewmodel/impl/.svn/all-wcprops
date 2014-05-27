@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/textannotationnewmodel/src/test/java/org/apache/stanbol/enhancer/engines/textannotationnewmodel/impl
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/textannotationnewmodel/src/test/java/org/apache/stanbol/enhancer/engines/textannotationnewmodel/impl/MockComponentContext.java
+END
+TextAnnotationNewModelEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/textannotationnewmodel/src/test/java/org/apache/stanbol/enhancer/engines/textannotationnewmodel/impl/TextAnnotationNewModelEngineTest.java
+END

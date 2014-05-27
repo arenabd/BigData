@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534563/stanbol/trunk/commons/freemarker/src/main/java/org/apache/stanbol/commons/freemarker/impl
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534563/stanbol/trunk/commons/freemarker/src/main/java/org/apache/stanbol/commons/freemarker/impl/Activator.java
+END
+BundleTemplateLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/freemarker/src/main/java/org/apache/stanbol/commons/freemarker/impl/BundleTemplateLoader.java
+END

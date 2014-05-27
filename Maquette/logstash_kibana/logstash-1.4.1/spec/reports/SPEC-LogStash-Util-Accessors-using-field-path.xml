@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Util::Accessors using field path" tests="13" time="0.005" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Util::Accessors using field path should get shallow string value of word key" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should get deep string value" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should set shallow string value" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should strict_set shallow string value" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should get shallow string value of key with spaces" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should get shallow string value of numeric key string" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should strict_set deep array value" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should retrieve array item" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should handle delete" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should retrieve array item containing hash" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should set deep array value" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should set deep string value" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::Accessors using field path should get deep string value" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

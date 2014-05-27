@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534545/stanbol/trunk/enhancement-engines/sentiment-wordclassifier/src/main/java/org/apache/stanbol/enhancer/engines/sentiment/classifiers
+END
+SentiWordNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1534545/stanbol/trunk/enhancement-engines/sentiment-wordclassifier/src/main/java/org/apache/stanbol/enhancer/engines/sentiment/classifiers/SentiWordNet.java
+END
+SentiWSComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1534545/stanbol/trunk/enhancement-engines/sentiment-wordclassifier/src/main/java/org/apache/stanbol/enhancer/engines/sentiment/classifiers/SentiWSComponent.java
+END

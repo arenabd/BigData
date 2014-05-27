@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone
+END
+StandaloneManagedSolrServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone/StandaloneManagedSolrServer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone/package.html
+END
+DefaultStandaloneManagedSolrServerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone/DefaultStandaloneManagedSolrServerWrapper.java
+END
+StandaloneEmbeddedSolrServerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone/StandaloneEmbeddedSolrServerProvider.java
+END
+ClassPathDataFileProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/java/org/apache/stanbol/commons/solr/managed/standalone/ClassPathDataFileProvider.java
+END

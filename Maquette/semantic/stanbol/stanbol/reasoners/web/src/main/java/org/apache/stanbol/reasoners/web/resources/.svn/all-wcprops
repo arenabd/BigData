@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1540501/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/resources
+END
+ReasoningServiceTaskResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1540501/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource.java
+END
+ReasoningServicesResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1540501/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/resources/ReasoningServicesResource.java
+END
+ReasoningResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1540501/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/resources/ReasoningResult.java
+END
+JobsResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1540501/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/resources/JobsResource.java
+END

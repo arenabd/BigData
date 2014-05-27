@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi
+END
+CeliConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/CeliConstants.java
+END
+CeliTagSetRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/CeliTagSetRegistry.java
+END
+CeliMorphoFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/CeliMorphoFeatures.java
+END

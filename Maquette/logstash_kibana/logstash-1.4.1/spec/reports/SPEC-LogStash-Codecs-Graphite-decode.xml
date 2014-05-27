@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Graphite#decode" tests="3" time="0.007" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Graphite#decode should return an event from single full graphite line" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Codecs::Graphite#decode should return multiple events given multiple graphite formated lines" time="0.004">
+  </testcase>
+  <testcase name="LogStash::Codecs::Graphite#decode should not return an event until newline is hit" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

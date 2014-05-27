@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/annotation
+END
+Annotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/annotation/Annotation.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/annotation/Value.java
+END
+Annotated.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/annotation/Annotated.java
+END

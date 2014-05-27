@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/log4j.properties
+END
+example.owl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/example.owl
+END
+foaf.owl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/foaf.owl
+END
+test_3_rules.owl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_3_rules.owl
+END
+dbpedia_3.6.owl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/dbpedia_3.6.owl
+END
+test_1.owl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_1.owl
+END
+test_1_expected.owl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_1_expected.owl
+END
+test_2.owl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_2.owl
+END
+test_2_expected.owl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_2_expected.owl
+END
+test_3.owl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_3.owl
+END
+test_3_expected.owl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/test_3_expected.owl
+END
+foaf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/resources/foaf.rdf
+END

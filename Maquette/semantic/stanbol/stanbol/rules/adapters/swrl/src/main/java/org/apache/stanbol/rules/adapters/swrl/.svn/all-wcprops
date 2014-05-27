@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/adapters/swrl/src/main/java/org/apache/stanbol/rules/adapters/swrl
+END
+SWRLAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/swrl/src/main/java/org/apache/stanbol/rules/adapters/swrl/SWRLAdapter.java
+END
+ArgumentSWRLAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/swrl/src/main/java/org/apache/stanbol/rules/adapters/swrl/ArgumentSWRLAtom.java
+END
+HigherOrderSWRLAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/swrl/src/main/java/org/apache/stanbol/rules/adapters/swrl/HigherOrderSWRLAtom.java
+END
+SWRLLiteralBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1587512/stanbol/trunk/rules/adapters/swrl/src/main/java/org/apache/stanbol/rules/adapters/swrl/SWRLLiteralBuilder.java
+END

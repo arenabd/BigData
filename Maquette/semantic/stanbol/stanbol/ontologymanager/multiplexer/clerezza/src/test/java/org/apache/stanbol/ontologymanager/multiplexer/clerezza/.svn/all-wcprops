@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza
+END
+Locations.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/Locations.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/Constants.java
+END
+MockOsgiContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/MockOsgiContext.java
+END
+StructureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/StructureTest.java
+END

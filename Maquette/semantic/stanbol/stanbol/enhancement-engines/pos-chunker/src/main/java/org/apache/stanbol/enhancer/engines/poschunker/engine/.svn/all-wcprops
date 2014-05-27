@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker/engine
+END
+PosChunkerEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker/engine/PosChunkerEngine.java
+END
+ChunkFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1556839/stanbol/trunk/enhancement-engines/pos-chunker/src/main/java/org/apache/stanbol/enhancer/engines/poschunker/engine/ChunkFactoryImpl.java
+END

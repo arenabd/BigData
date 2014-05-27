@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Clone Bug LOGSTASH-1225 &quot;{&quot;type&quot;:&quot;bug-1225&quot;,&quot;message&quot;:&quot;unused&quot;,&quot;number&quot;:5}&quot;" tests="1" time="0.01" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Clone Bug LOGSTASH-1225 &quot;{&quot;type&quot;:&quot;bug-1225&quot;,&quot;message&quot;:&quot;unused&quot;,&quot;number&quot;:5}&quot; when processed" time="0.01">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

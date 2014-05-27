@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource
+END
+rolesCheckboxes.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/rolesCheckboxes.ftl
+END
+editUser.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/editUser.ftl
+END
+listPermission.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/listPermission.ftl
+END
+editRole.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/editRole.ftl
+END
+listUser.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/listUser.ftl
+END
+permissionsCheckboxes.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/permissionsCheckboxes.ftl
+END
+listRole.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/usermanagement/src/main/resources/templates/html/org/apache/stanbol/commons/usermanagement/resource/listRole.ftl
+END

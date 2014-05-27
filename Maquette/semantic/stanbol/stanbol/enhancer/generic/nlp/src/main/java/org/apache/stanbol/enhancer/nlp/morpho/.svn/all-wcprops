@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho
+END
+CaseTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/CaseTag.java
+END
+VerbMoodTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/VerbMoodTag.java
+END
+TenseTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/TenseTag.java
+END
+Case.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/Case.java
+END
+Definitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/Definitness.java
+END
+VerbMood.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/VerbMood.java
+END
+Tense.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/Tense.java
+END
+GenderTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/GenderTag.java
+END
+MorphoFeatures.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/MorphoFeatures.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/Gender.java
+END
+NumberFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/NumberFeature.java
+END
+NumberTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/NumberTag.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/morpho/Person.java
+END

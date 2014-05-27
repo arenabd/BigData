@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1588453/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype
+END
+ValueTypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534507/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/ValueTypeParser.java
+END
+ValueTypeSerializerRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1588453/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/ValueTypeSerializerRegistry.java
+END
+ValueTypeParserRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1588453/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/ValueTypeParserRegistry.java
+END
+ValueTypeSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/ValueTypeSerializer.java
+END

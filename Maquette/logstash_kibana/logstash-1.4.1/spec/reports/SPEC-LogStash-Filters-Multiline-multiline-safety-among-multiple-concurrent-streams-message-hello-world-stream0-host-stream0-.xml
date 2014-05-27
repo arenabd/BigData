@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Multiline multiline safety among multiple concurrent streams &quot;[{&quot;message&quot;:&quot;hello world stream0&quot;,&quot;host&quot;:&quot;stream0&quot;,...&quot;" tests="1" time="0.047" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Multiline multiline safety among multiple concurrent streams &quot;[{&quot;message&quot;:&quot;hello world stream0&quot;,&quot;host&quot;:&quot;stream0&quot;,...&quot; when processed" time="0.047">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

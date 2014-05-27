@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 101
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+
+
+
+END

@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 40
+.classpath
+
+.project
+
+target
+
+.settings
+
+K 13
+svn:mergeinfo
+V 501
+/incubator/stanbol/branches/dbpedia-spotlight-engines/engines/celi:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/engines/celi:1386989-1388016
+/incubator/stanbol/trunk/enhancer/engines/celi:1339554,1339557-1339558
+/stanbol/branches/STANBOL-913/celi:1443935-1448276
+/stanbol/branches/stanbol-nlp-processing/enhancer/engines/celi:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancement-engines/celi:1455112-1458685
+/stanbol/trunk/enhancement-engines/celi:1496360-1515903
+END

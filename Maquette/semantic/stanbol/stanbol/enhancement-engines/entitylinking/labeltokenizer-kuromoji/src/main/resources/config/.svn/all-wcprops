@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-kuromoji/src/main/resources/config
+END
+org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.lucene.LuceneLabelTokenizer-kuromoji.config
+K 25
+svn:wc:ra_dav:version-url
+V 234
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/labeltokenizer-kuromoji/src/main/resources/config/org.apache.stanbol.enhancer.engines.entitylinking.labeltokenizer.lucene.LuceneLabelTokenizer-kuromoji.config
+END

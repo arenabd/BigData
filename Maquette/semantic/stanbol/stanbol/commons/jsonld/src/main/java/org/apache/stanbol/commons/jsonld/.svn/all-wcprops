@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1587798/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld
+END
+JsonSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587798/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonSerializer.java
+END
+JsonLdParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdParser.java
+END
+JsonLdProfileParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdProfileParser.java
+END
+JsonLd.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLd.java
+END
+JsonLdProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdProfile.java
+END
+JsonLdPropertyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdPropertyValue.java
+END
+JsonLdIRI.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdIRI.java
+END
+JsonLdProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdProperty.java
+END
+JsonLdParserCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdParserCommon.java
+END
+ShorteningException.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/ShorteningException.java
+END
+JsonComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonComparator.java
+END
+JsonLdResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdResource.java
+END
+JsonLdCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/main/java/org/apache/stanbol/commons/jsonld/JsonLdCommon.java
+END

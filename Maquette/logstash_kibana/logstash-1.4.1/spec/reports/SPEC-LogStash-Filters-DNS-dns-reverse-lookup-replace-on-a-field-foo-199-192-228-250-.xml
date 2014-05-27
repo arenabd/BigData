@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::DNS dns reverse lookup, replace (on a field) &quot;{&quot;foo&quot;:&quot;199.192.228.250&quot;}&quot;" tests="1" time="0.015" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::DNS dns reverse lookup, replace (on a field) &quot;{&quot;foo&quot;:&quot;199.192.228.250&quot;}&quot; when processed" time="0.014">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

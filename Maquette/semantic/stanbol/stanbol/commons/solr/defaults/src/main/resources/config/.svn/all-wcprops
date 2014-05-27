@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/defaults/src/main/resources/config
+END
+org.apache.stanbol.commons.solr.managed.impl.ManagedSolrServerImpl-default.config
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/defaults/src/main/resources/config/org.apache.stanbol.commons.solr.managed.impl.ManagedSolrServerImpl-default.config
+END
+org.apache.sling.commons.log.LogManager.factory.config-solrlogconfig.config
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/defaults/src/main/resources/config/org.apache.sling.commons.log.LogManager.factory.config-solrlogconfig.config
+END

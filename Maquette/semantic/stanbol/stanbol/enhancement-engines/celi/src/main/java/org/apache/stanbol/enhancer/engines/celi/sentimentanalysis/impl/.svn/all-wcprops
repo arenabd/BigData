@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl
+END
+CeliSentimentAnalysisEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/CeliSentimentAnalysisEngine.java
+END
+SentimentExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/SentimentExpression.java
+END
+CeliAnalyzedTextSentimentAnalysisEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/CeliAnalyzedTextSentimentAnalysisEngine.java
+END
+SentimentAnalysisServiceClientHttp.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/SentimentAnalysisServiceClientHttp.java
+END

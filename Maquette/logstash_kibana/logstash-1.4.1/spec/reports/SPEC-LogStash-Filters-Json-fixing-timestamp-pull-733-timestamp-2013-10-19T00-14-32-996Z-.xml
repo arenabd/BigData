@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Json fixing @timestamp (#pull 733) &quot;{ &quot;@timestamp&quot;: &quot;2013-10-19T00:14:32.996Z&quot; }&quot;" tests="1" time="0.003" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Json fixing @timestamp (#pull 733) &quot;{ &quot;@timestamp&quot;: &quot;2013-10-19T00:14:32.996Z&quot; }&quot; when processed" time="0.003">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

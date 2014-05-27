@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1564226/stanbol/trunk/enhancement-engines/entitycomention/src/main/java/org/apache/stanbol/enhancer/engines/entitycomention
+END
+CoMentionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitycomention/src/main/java/org/apache/stanbol/enhancer/engines/entitycomention/CoMentionConstants.java
+END
+EntityCoMentionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1564226/stanbol/trunk/enhancement-engines/entitycomention/src/main/java/org/apache/stanbol/enhancer/engines/entitycomention/EntityCoMentionEngine.java
+END

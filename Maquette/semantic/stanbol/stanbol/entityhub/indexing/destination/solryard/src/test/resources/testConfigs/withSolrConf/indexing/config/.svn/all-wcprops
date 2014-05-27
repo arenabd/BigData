@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config
+END
+dbPediaMappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/dbPediaMappings.txt
+END
+range.properties
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/range.properties
+END
+fieldBoosts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/fieldBoosts.properties
+END
+indexFieldConfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/indexFieldConfig.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/indexing.properties
+END
+minincoming.properties
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/minincoming.properties
+END

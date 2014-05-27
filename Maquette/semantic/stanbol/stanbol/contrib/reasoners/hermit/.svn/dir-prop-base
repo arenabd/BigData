@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 41
+target
+.classpath
+.project
+.settings
+bin
+
+K 13
+svn:mergeinfo
+V 223
+/incubator/stanbol/branches/jena-reasoners/reasoners/hermit:1156596-1163703
+/incubator/stanbol/branches/lto-reasoners/reasoners/hermit:1180011-1205767
+/stanbol/branches/stanbol-solr4/contrib/reasoners/hermit:1455112-1458685
+END

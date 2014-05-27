@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl
+END
+DOMBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/DOMBuilder.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/InitializationException.java
+END
+XsltExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/XsltExtractor.java
+END
+HtmlExtractionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/HtmlExtractionComponent.java
+END
+ExtractorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/ExtractorException.java
+END
+BundleURIResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/BundleURIResolver.java
+END
+ClerezzaRDFUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/ClerezzaRDFUtils.java
+END
+HtmlExtractionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/HtmlExtractionRegistry.java
+END
+DOMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/DOMUtils.java
+END
+HtmlExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/HtmlExtractor.java
+END
+CharsetRecognizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/CharsetRecognizer.java
+END
+HtmlParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/java/org/apache/stanbol/enhancer/engines/htmlextractor/impl/HtmlParser.java
+END

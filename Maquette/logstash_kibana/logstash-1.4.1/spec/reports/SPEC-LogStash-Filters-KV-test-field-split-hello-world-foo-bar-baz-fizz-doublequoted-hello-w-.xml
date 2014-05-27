@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::KV test field_split &quot;?hello=world&amp;foo=bar&amp;baz=fizz&amp;doublequoted=&quot;hello w...&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::KV test field_split &quot;?hello=world&amp;foo=bar&amp;baz=fizz&amp;doublequoted=&quot;hello w...&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

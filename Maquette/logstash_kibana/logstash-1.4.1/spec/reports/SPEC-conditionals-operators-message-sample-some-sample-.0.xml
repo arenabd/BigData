@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="conditionals operators [message] =~ /sample/ &quot;some sample&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="conditionals operators [message] =~ /sample/ &quot;some sample&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms
+END
+MultiplicationAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/MultiplicationAtom.java
+END
+BlankNodeAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/BlankNodeAtom.java
+END
+SubtractionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/SubtractionAtom.java
+END
+NotAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NotAtom.java
+END
+TypedLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/TypedLiteralAtom.java
+END
+CreateLabelAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/CreateLabelAtom.java
+END
+SumAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/SumAtom.java
+END
+NewLiteralAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NewLiteralAtom.java
+END
+ConcatAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/ConcatAtom.java
+END
+PropStringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/PropStringAtom.java
+END
+LessEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LessEqualThanAtom.java
+END
+StartsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/StartsWithAtom.java
+END
+LessThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LessThanAtom.java
+END
+LengthAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LengthAtom.java
+END
+IsBlankAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/IsBlankAtom.java
+END
+DivisionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/DivisionAtom.java
+END
+EndsWithAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/EndsWithAtom.java
+END
+ResourceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/ResourceAtom.java
+END
+UnionAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/UnionAtom.java
+END
+LocalNameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LocalNameAtom.java
+END
+NamespaceAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NamespaceAtom.java
+END
+NewIRIAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NewIRIAtom.java
+END
+IndividualPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/IndividualPropertyAtom.java
+END
+GreaterThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/GreaterThanAtom.java
+END
+ClassAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/ClassAtom.java
+END
+DifferentAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/DifferentAtom.java
+END
+StringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/StringAtom.java
+END
+StrAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/StrAtom.java
+END
+NumericVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NumericVariableAtom.java
+END
+StringVariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/StringVariableAtom.java
+END
+DatavaluedPropertyAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/DatavaluedPropertyAtom.java
+END
+SubstringAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/SubstringAtom.java
+END
+LowerCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LowerCaseAtom.java
+END
+LetAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/LetAtom.java
+END
+VariableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/VariableAtom.java
+END
+SameAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/SameAtom.java
+END
+UpperCaseAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/UpperCaseAtom.java
+END
+NumberAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/NumberAtom.java
+END
+UObjectAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/UObjectAtom.java
+END
+GreaterEqualThanAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/atoms/GreaterEqualThanAtom.java
+END

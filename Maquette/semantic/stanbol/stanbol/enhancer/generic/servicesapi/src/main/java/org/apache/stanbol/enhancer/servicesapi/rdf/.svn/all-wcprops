@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf
+END
+OntologicalClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/OntologicalClasses.java
+END
+TechnicalClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/TechnicalClasses.java
+END
+Properties.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/Properties.java
+END
+ExecutionPlan.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/ExecutionPlan.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/package.html
+END
+NamespaceEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/NamespaceEnum.java
+END
+Enhancer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/Enhancer.java
+END
+ExecutionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/rdf/ExecutionMetadata.java
+END

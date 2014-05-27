@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1587576/stanbol/trunk/enhancement-engines/geonames/src/test/java/org/apache/stanbol/enhancer/engines/geonames/impl
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/geonames/src/test/java/org/apache/stanbol/enhancer/engines/geonames/impl/MockComponentContext.java
+END
+TestLocationEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1587576/stanbol/trunk/enhancement-engines/geonames/src/test/java/org/apache/stanbol/enhancer/engines/geonames/impl/TestLocationEnhancementEngine.java
+END

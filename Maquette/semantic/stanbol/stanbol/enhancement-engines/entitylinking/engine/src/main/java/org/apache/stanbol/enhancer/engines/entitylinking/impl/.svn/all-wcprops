@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl
+END
+LinkedEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/LinkedEntity.java
+END
+Statistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/Statistic.java
+END
+Suggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/Suggestion.java
+END
+TokenData.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/TokenData.java
+END
+LabelMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/LabelMatch.java
+END
+LinkingStateAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/LinkingStateAware.java
+END
+ProcessingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1560286/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/ProcessingState.java
+END
+SectionData.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/SectionData.java
+END
+MainLabelTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/MainLabelTokenizer.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/Utils.java
+END
+EntityLinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/EntityLinker.java
+END
+ChunkData.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/impl/ChunkData.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model
+END
+AnalysedTextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/AnalysedTextFactory.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/Token.java
+END
+Span.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534542/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/Span.java
+END
+Section.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/Section.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/Sentence.java
+END
+AnalysedText.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/AnalysedText.java
+END
+AnalysedTextUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/AnalysedTextUtils.java
+END
+Chunk.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/Chunk.java
+END
+SpanTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534542/stanbol/trunk/enhancer/generic/nlp/src/main/java/org/apache/stanbol/enhancer/nlp/model/SpanTypeEnum.java
+END

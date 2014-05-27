@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/test/resources/log4j.properties
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/test/resources/README
+END
+generic.rdfs.rules
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/test/resources/generic.rdfs.rules
+END
+foaf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/jena/src/test/resources/foaf.rdf
+END

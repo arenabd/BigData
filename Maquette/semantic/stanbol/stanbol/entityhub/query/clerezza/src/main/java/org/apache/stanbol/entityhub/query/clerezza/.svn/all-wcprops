@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza
+END
+SparqlQueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza/SparqlQueryUtils.java
+END
+RdfQueryResultList.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza/RdfQueryResultList.java
+END
+SparqlFieldQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza/SparqlFieldQuery.java
+END
+SparqlFieldQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza/SparqlFieldQueryFactory.java
+END
+ClerezzaQueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/query/clerezza/src/main/java/org/apache/stanbol/entityhub/query/clerezza/ClerezzaQueryUtils.java
+END

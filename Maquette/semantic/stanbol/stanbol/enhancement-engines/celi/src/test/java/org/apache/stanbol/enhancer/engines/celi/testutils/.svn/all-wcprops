@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/testutils
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/testutils/TestUtils.java
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/testutils/MockComponentContext.java
+END

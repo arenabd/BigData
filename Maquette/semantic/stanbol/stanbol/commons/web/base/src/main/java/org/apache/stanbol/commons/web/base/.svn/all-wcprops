@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1593887/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base
+END
+ScriptResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/ScriptResource.java
+END
+NavigationLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/NavigationLink.java
+END
+WebFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1593887/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/WebFragment.java
+END
+CorsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/CorsConstants.java
+END
+LinkResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/LinkResource.java
+END
+CorsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/CorsHelper.java
+END

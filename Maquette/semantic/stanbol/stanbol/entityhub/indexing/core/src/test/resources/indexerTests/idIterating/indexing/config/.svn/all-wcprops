@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/indexerTests/idIterating/indexing/config
+END
+indexerTestMappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/indexerTests/idIterating/indexing/config/indexerTestMappings.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/indexerTests/idIterating/indexing/config/indexing.properties
+END
+minincoming.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/indexerTests/idIterating/indexing/config/minincoming.properties
+END
+range.properties
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/resources/indexerTests/idIterating/indexing/config/range.properties
+END

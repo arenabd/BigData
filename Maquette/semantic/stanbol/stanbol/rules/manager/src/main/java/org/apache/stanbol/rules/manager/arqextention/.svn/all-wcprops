@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/arqextention
+END
+CreatePropertyURIStringFromLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/arqextention/CreatePropertyURIStringFromLabel.java
+END
+CreateURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/arqextention/CreateURI.java
+END
+CreateStandardLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/arqextention/CreateStandardLabel.java
+END
+Concat.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/arqextention/Concat.java
+END

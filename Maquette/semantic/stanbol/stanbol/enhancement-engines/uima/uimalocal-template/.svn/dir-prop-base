@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 37
+target
+.classpath
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 454
+/incubator/stanbol/branches/dbpedia-spotlight-engines/engines/uimalocal-template:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/engines/uimalocal-template:1386989-1388016
+/stanbol/branches/STANBOL-913/uima/uimalocal-template:1443935-1448276
+/stanbol/branches/stanbol-nlp-processing/enhancer/engines/uimalocal-template:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancement-engines/uima/uimalocal-template:1455112-1458685
+END

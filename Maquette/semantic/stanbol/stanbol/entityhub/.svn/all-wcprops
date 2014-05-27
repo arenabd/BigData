@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/asf/!svn/ver/1551137/stanbol/trunk/entityhub/pom.xml
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/README.TXT
+END
+geonames.org-siteConfig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/geonames.org-siteConfig
+END
+musicbrainz-siteConfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/musicbrainz-siteConfig.txt
+END

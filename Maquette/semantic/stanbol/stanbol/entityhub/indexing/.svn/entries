@@ -1,0 +1,86 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/entityhub/indexing
+http://svn.apache.org/repos/asf
+
+
+
+2014-04-16T07:50:52.897522Z
+1587825
+rwesten
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+core
+dir
+
+dbpedia
+dir
+
+genericrdf
+dir
+
+pom.xml
+file
+
+
+
+
+2014-05-12T13:24:50.942142Z
+00e46c73bfab0f8be3a431ab66ee72b0
+2014-01-14T16:00:56.849298Z
+1558085
+wikier
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3103
+
+freebase
+dir
+
+geonames
+dir
+
+source
+dir
+
+dblp
+dir
+
+destination
+dir
+

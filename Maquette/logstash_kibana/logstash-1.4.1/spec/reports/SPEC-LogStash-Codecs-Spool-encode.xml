@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Spool#encode" tests="1" time="0.001" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Spool#encode should return a spooled event" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="inputs/gelf reads chunked gelf messages " tests="1" time="0.539" failures="0" errors="0" skipped="0">
+  <testcase name="inputs/gelf reads chunked gelf messages  inputs" time="0.537">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

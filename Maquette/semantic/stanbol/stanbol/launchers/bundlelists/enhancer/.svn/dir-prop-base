@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 37
+target
+.project
+.settings
+.classpath
+
+K 13
+svn:mergeinfo
+V 393
+/incubator/stanbol/branches/dbpedia-spotlight-engines/bundlelist:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/bundlelist:1386989-1388016
+/stanbol/branches/release-0.12/launchers/bundlelists/enhancer:1589341
+/stanbol/branches/stanbol-nlp-processing/enhancer/bundlelist:1388017-1413353
+/stanbol/branches/stanbol-solr4/launchers/bundlelists/enhancer:1455112-1458685
+END

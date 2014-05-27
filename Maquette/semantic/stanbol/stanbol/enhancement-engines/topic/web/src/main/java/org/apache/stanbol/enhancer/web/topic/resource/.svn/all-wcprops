@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/web/src/main/java/org/apache/stanbol/enhancer/web/topic/resource
+END
+TopicModelResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/web/src/main/java/org/apache/stanbol/enhancer/web/topic/resource/TopicModelResource.java
+END
+TopicClassifierRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/web/src/main/java/org/apache/stanbol/enhancer/web/topic/resource/TopicClassifierRootResource.java
+END

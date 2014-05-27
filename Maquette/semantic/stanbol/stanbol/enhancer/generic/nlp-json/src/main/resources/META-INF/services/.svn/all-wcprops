@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1551879/stanbol/trunk/enhancer/generic/nlp-json/src/main/resources/META-INF/services
+END
+org.apache.stanbol.enhancer.nlp.json.valuetype.ValueTypeSerializer
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1551879/stanbol/trunk/enhancer/generic/nlp-json/src/main/resources/META-INF/services/org.apache.stanbol.enhancer.nlp.json.valuetype.ValueTypeSerializer
+END
+org.apache.stanbol.enhancer.nlp.json.valuetype.ValueTypeParser
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1551879/stanbol/trunk/enhancer/generic/nlp-json/src/main/resources/META-INF/services/org.apache.stanbol.enhancer.nlp.json.valuetype.ValueTypeParser
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/langid/impl
+END
+CeliLanguageIdentifierEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/langid/impl/CeliLanguageIdentifierEnhancementEngine.java
+END
+GuessedLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/langid/impl/GuessedLanguage.java
+END
+LanguageIdentifierClientHTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/main/java/org/apache/stanbol/enhancer/engines/celi/langid/impl/LanguageIdentifierClientHTTP.java
+END

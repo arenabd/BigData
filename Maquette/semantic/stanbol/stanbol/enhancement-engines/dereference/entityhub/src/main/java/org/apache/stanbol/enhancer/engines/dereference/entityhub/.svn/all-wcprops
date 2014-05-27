@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1590931/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub
+END
+ExecutorServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1565182/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/ExecutorServiceProvider.java
+END
+SiteDereferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/SiteDereferencer.java
+END
+SitesDereferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/SitesDereferencer.java
+END
+StaticExecutorServiceProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/asf/!svn/ver/1565182/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/StaticExecutorServiceProvider.java
+END
+EntityhubDereferencer.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/EntityhubDereferencer.java
+END
+TrackingDereferencerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/repos/asf/!svn/ver/1572899/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/TrackingDereferencerBase.java
+END
+EntityhubDereferenceEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/asf/!svn/ver/1590931/stanbol/trunk/enhancement-engines/dereference/entityhub/src/main/java/org/apache/stanbol/enhancer/engines/dereference/entityhub/EntityhubDereferenceEngine.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="receive graphite input &quot;foo.bar.baz 4025.34 1364606522&quot;" tests="1" time="0.012" failures="0" errors="0" skipped="0">
+  <testcase name="receive graphite input &quot;foo.bar.baz 4025.34 1364606522&quot; when processed" time="0.011">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

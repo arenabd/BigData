@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStashConfigParser" tests="2" time="0.059" failures="0" errors="0" skipped="0">
+  <testcase name="LogStashConfigParser should permit single-quoted attribute names" time="0.051">
+  </testcase>
+  <testcase name="LogStashConfigParser should permit empty plugin sections" time="0.007">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

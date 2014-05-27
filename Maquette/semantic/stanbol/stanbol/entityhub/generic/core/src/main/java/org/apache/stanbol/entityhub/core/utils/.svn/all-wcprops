@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/utils
+END
+TimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/utils/TimeUtils.java
+END
+OsgiUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/utils/OsgiUtils.java
+END
+SiteUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/utils/SiteUtils.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Split custom field &quot;{&quot;custom&quot;:&quot;big\nbird\nsesame street&quot;,&quot;do_not_touch&quot;...&quot;" tests="1" time="0.014" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Split custom field &quot;{&quot;custom&quot;:&quot;big\nbird\nsesame street&quot;,&quot;do_not_touch&quot;...&quot; when processed" time="0.012">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

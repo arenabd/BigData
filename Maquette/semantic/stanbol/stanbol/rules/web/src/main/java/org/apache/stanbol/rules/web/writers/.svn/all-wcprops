@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/java/org/apache/stanbol/rules/web/writers
+END
+RecipeListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/java/org/apache/stanbol/rules/web/writers/RecipeListWriter.java
+END
+RuleListWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/java/org/apache/stanbol/rules/web/writers/RuleListWriter.java
+END
+RecipeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/java/org/apache/stanbol/rules/web/writers/RecipeWriter.java
+END

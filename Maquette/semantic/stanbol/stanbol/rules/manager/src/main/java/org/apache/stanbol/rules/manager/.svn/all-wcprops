@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager
+END
+KB.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/KB.java
+END
+RecipeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/RecipeRule.java
+END
+ClerezzaRuleStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/ClerezzaRuleStore.java
+END
+RecipeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587512/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/RecipeDescriptor.java
+END
+RecipeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/RecipeImpl.java
+END
+RuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/manager/src/main/java/org/apache/stanbol/rules/manager/RuleImpl.java
+END

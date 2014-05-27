@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Event#sprintf" tests="5" time="0.009" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Event#sprintf should report a unix timestamp for %{+%s}" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event#sprintf should report fields with %{field} syntax" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event#sprintf should report a time with %{+format} syntax" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event#sprintf should print deep fields" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event#sprintf should be able to take a non-string for the format" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

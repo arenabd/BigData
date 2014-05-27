@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/registry
+END
+onmtest_additions.owl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/registry/onmtest_additions.owl
+END
+onmtest.owl
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/registry/onmtest.owl
+END
+onmtest_inversepair.owl
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/registry/onmtest_inversepair.owl
+END
+meta.owl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/registry/meta.owl
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session
+END
+SessionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionEvent.java
+END
+SessionListenable.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionListenable.java
+END
+SessionIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionIDGenerator.java
+END
+SessionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionListener.java
+END
+DuplicateSessionIDException.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/DuplicateSessionIDException.java
+END
+SessionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionManager.java
+END
+NonReferenceableSessionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/NonReferenceableSessionException.java
+END
+SessionLimitException.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/SessionLimitException.java
+END
+Session.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/session/Session.java
+END

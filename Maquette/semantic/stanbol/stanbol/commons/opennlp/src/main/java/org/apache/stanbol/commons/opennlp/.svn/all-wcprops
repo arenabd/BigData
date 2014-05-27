@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp
+END
+TextAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/TextAnalyzer.java
+END
+OpenNLP.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1582214/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/OpenNLP.java
+END
+KeywordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/KeywordTokenizer.java
+END
+PosTagsCollectionEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/PosTagsCollectionEnum.java
+END
+PosTypeCollectionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/PosTypeCollectionType.java
+END
+PosTypeChunker.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/opennlp/src/main/java/org/apache/stanbol/commons/opennlp/PosTypeChunker.java
+END

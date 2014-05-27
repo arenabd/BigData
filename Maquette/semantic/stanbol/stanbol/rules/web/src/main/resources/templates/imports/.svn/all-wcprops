@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports
+END
+tutorial0.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial0.ftl
+END
+tutorial1.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial1.ftl
+END
+tutorial2.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial2.ftl
+END
+tutorial3.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial3.ftl
+END
+tutorial4.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial4.ftl
+END
+tutorial5.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/tutorial5.ftl
+END
+ruleSyntax.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/imports/ruleSyntax.ftl
+END

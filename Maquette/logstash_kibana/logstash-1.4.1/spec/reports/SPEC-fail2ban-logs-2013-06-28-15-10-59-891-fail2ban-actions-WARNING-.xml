@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="fail2ban logs &quot;2013-06-28 15:10:59,891 fail2ban.actions: WARNING [...&quot;" tests="1" time="0.039" failures="0" errors="0" skipped="0">
+  <testcase name="fail2ban logs &quot;2013-06-28 15:10:59,891 fail2ban.actions: WARNING [...&quot; when processed" time="0.038">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

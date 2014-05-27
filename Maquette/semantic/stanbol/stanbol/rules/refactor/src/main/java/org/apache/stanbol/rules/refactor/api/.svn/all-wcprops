@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/java/org/apache/stanbol/rules/refactor/api
+END
+Refactorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/java/org/apache/stanbol/rules/refactor/api/Refactorer.java
+END
+RefactoringException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/refactor/src/main/java/org/apache/stanbol/rules/refactor/api/RefactoringException.java
+END

@@ -1,0 +1,250 @@
+Error: No config files found: /home/arenasi/Maquette/logstash_kibana/logstash_twitter.conf
+Can you make sure this path is a logstash config file?
+{:timestamp=>"2014-05-26T12:55:22.790000+0200", :message=>"Using milestone 2 input plugin 'file'. This plugin should be stable, but if you see strange behavior, please let us know! For more information on plugin milestones, see http://logstash.net/docs/1.4.1/plugin-milestones", :level=>:warn}
+{:timestamp=>"2014-05-26T12:55:22.815000+0200", :message=>"You are using a deprecated config setting \"format\" set in twitter. Deprecated settings will continue to work, but are scheduled for removal from logstash in the future. You should use the newer 'codec' setting instead. If you have any questions about this, please visit the #logstash channel on freenode irc.", :name=>"format", :plugin=><LogStash::Inputs::Twitter --->, :level=>:warn}
+{:timestamp=>"2014-05-26T12:55:22.817000+0200", :message=>"Using milestone 1 input plugin 'twitter'. This plugin should work, but would benefit from use by folks like you. Please let us know if you find bugs or have suggestions on how to improve this plugin.  For more information on plugin milestones, see http://logstash.net/docs/1.4.1/plugin-milestones", :level=>:warn}
+2014-05-26T10:55:24.530+0000 sd-49314 May 26 12:50:19 sd-49314 sshd[3499]: refused connect from 192.3.17.250 (192.3.17.250)
+2014-05-26T10:55:24.533+0000 sd-49314 2014-05-26 12:50:22,213 fail2ban.actions: WARNING [ssh] Ban 192.3.17.250
+2014-05-26T10:55:24.534+0000 sd-49314 May 26 12:49:54 sd-49314 ntpd[780]: adjusting local clock by 0.376784s
+2014-05-26T10:55:24.534+0000 sd-49314 May 26 12:50:14 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T10:55:24.535+0000 sd-49314 May 26 12:50:14 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T10:55:24.535+0000 sd-49314 May 26 12:54:05 sd-49314 ntpd[780]: adjusting local clock by 0.244779s
+2014-05-26T10:55:43.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:55:43.000+0000 %{host} RT @le_Parisien: Le bébé saute par la fenêtre, un voisin le récupère au vol. La VIDÉO ici &gt;&gt;http://t.co/PF0ra7lZ69 http://t.co/YFIXuCV5Bg
+2014-05-26T10:55:44.000+0000 %{host} RT @lemondefr : "Pourquoi le 25 mai est plus grave que le 21 avril" http://t.co/qbYUu2frqp
+2014-05-26T10:55:46.000+0000 %{host} @blogtransfer @Le_Figaro @datirachida (6) les français ne sont pas prés à bouleverser tous les sujets sociaux de cette manière!pas encore!
+2014-05-26T10:55:48.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:55:48.000+0000 %{host} RT @Nitro_Politic: La carte qui devrait faire réfléchir le PS, mais c'est trop tard je crois http://t.co/4vhYsVPRMl via @barre_stephanie
+2014-05-26T10:55:50.000+0000 %{host} @Le_Figaro Grillo,visto quanti fascisti,xenofobi,industriali in Francia,Sveglia o sparisci.Moneta Sovrana
+2014-05-26T10:55:51.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:55:52.000+0000 %{host} Autonomie : la réforme n'est sans doute pas pour maintenant http://t.co/sLsTM4eSpy via @Le_Figaro
+2014-05-26T10:55:52.000+0000 %{host} RT @lemondefr : "Vague europhobe sur le Vieux Continent" http://t.co/C8wQyvrgrp
+2014-05-26T10:55:53.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:55:57.000+0000 %{host} RT @lemondefr : "Affaire Tapie : Claude Guéant placé en garde à vue" http://t.co/zTkNI36ETA
+2014-05-26T10:56:00.000+0000 %{host} RT @lemondefr : "Européennes : à Marseille, le vote contestataire d'électeurs « abandonnés »" http://t.co/vDTZIYcPAX
+{:timestamp=>"2014-05-26T12:56:07.259000+0200", :message=>"A plugin had an unrecoverable error. Will restart this plugin.\n  Plugin: <LogStash::Inputs::Twitter consumer_key=>\"Xz6UkCni85xIav5s2G1pw\", oauth_token=>\"2304510085-ufBPE8wJThxtfEGQx1Xc5r84It7omWxf0lyxc8d\", format=>\"json\", keywords=>[\"Le_Figaro\", \"liberation_info\", \"le_Parisien\", \"lemondefr\", \"lemonde_pol\", \"Figaro_Culture\", \"Alcatel_Lucent\", \"Alstom\", \"EDFofficiel\", \"#SEPA\", \"cBanque\", \"banquedefrance\"], type=>\"Twitter\">\n  Error: unexpected token at '{\"created_at\":\"Mon May 26 10:56:07 +0000 2014\",\"id\":470881056434843649,\"id_str\":\"470881056434843649\",\"text\":\"Le flop de la jupe-culotte http:\\/\\/t.co\\/x9VZKESCB1 via @lemondefr\",\"source\":\"\\u003ca href=\\\"http:\\/\\/twitter.com\\/tweetbutton\\\" rel=\\\"nofollow\\\"\\u003eTweet Button\\u003c\\/a\\u003e\",\"truncated\":false,\"in_reply_to_status_id\":null,\"in_reply_to_status_id_str\":null,\"in_reply_to_user_id\":null,\"in_reply_to_user_id_str\":null,\"in_reply_to_screen_name\":null,\"user\":{\"id\":77342415,\"id_str\":\"77342415\",\"name\":\"lou salome\",\"screen_name\":\"Lou_Salome__\",\"location\":\"\",\"url\":null,\"description\":\"Fashion Buyer\",\"protected\":false,\"followers_count\":319,\"friends_count\":303,\"listed_count\":2,\"created_at\":\"Fri Sep 25 23:43:54 +0000 2009\",\"favourites_count\":691,\"utc_offset\":-7200,\"time_zone\":\"Greenland\",\"geo_enabled\":false,\"verified\":false,\"statuses_count\":2903,\"lang\":\"en\",\"contributors_enabled\":false,\"is_translator\":false,\"is_translation_enabled\":false,\"profile_background_color\":\"12EBBC\",\"profile_background_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_background_images\\/763644236\\/67addadd387cadb6f3adaeac3ff572a4.png\",\"profile_background_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_background_images\\/763644236\\/67addadd387cadb6f3adaeac3ff572a4.png\",\"profile_background_tile\":true,\"profile_image_url\":\"http:\\/\\/pbs.twimg.com\\/profile_images\\/422080563097632768\\/SlBBCBi8_normal.jpeg\",\"profile_image_url_https\":\"https:\\/\\/pbs.twimg.com\\/profile_images\\/422080563097632768\\/SlBBCBi8_normal.jpeg\",\"profile_banner_url\":\"https:\\/\\/pbs.twimg.com\\/profile_banners\\/77342415\\/1398759608\",\"profile_link_color\":\"0080FF\",\"profile_sidebar_border_color\":\"FFFFFF\",\"profile_sidebar_fill_color\":\"080808\",\"profile_text_color\":\"F70905\",\"profile_use_background_image\":true,\"default_profile\":false,\"default_profile_image\":false,\"following\":null,\"follow_request_sent\":null,\"notifications\":null},\"geo\":null,\"coordinates\":null,\"place\":null,\"contributors\":null,\"retweet_count\":0,\"favorite_count\":0,\"entities\":{\"hashtags\":[],\"symbols\":[],\"urls\":[{\"url\":\"http:\\/\\/t.co\\/x9VZKESCB1\",\"expanded_url\":\"http:\\/\\/www.lemonde.fr\\/mode\\/article\\/2014\\/05\\/23\\/le-flop-de-la-jupe-culotte_4423874_1383317.html\",\"display_url\":\"lemonde.fr\\/mode\\/article\\/2\\u2026\",\"indices\":[27,49]}],\"user_mentions\":[{\"screen_name\":\"lemondefr\",\"name\":\"Le Monde\",\"id\":24744541,\"id_str\":\"24744541\",\"indices\":[54,64]}]},\"favorited\":false,\"retweeted\":false,\"possibly_sensitive\":false,\"filter_level\":\"medium\",\"lang\":\"fr\"}'", :level=>:error}
+2014-05-26T10:56:09.000+0000 %{host} RT @lemondefr : "Ukraine : premiers contacts entre le nouveau président et la Russie" http://t.co/2bTrACWwvv
+2014-05-26T10:56:17.000+0000 %{host} RT @lemondefr : "Le pape François visite plusieurs sites à Jérusalem" http://t.co/EqQvaBiJGJ
+2014-05-26T10:56:24.000+0000 %{host} В Москву на испытания прибыл низкопольный трамвай Alstom Citadis 301
+2014-05-26T10:56:26.000+0000 %{host} RT @lemondefr : "Un journaliste libyen assassiné à Benghazi" http://t.co/SsdcncNkx8
+2014-05-26T10:56:28.000+0000 %{host} @Le_Figaro @JLMelenchon il est allé à la bastille prendre  ses amis??
+2014-05-26T10:56:28.000+0000 %{host} Coca-Cola reprend l'offensive en France http://t.co/0ueC00FzGE via @Le_Figaro
+2014-05-26T10:56:29.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:56:35.000+0000 %{host} @Le_Figaro @datirachida Et pourquoi pas en finir avec l'Union des Moutons du Président, puisqu'il n'y a plus de président ?
+2014-05-26T10:56:42.000+0000 %{host} RT @jbmouttet: Au Mexique, le sous-commandant Marcos se retire de la direction des zapatistes http://t.co/L07y0jXqW0 via @lemondefr
+2014-05-26T10:56:43.000+0000 %{host} RT @corinep2: ArbitrageTapie: Claude Guéant placé en garde à vue via @Le_Figaro.Voilà qui ne va pas redorer le blason de la droite  http://t.co/DwJuqzcvqH
+2014-05-26T10:56:43.000+0000 %{host} RT @rycard77: @GTabard @capricorne75014 @radioclassique @Le_Figaro son plan avorté,il continue attendre lire:La soupe à la grimace http://t.co/X9iSuPlV2p
+2014-05-26T10:56:45.000+0000 %{host} RT @vonnydosax: I'm at Alstom Wind - Camaçari BA http://t.co/DE8Xou0SVA
+2014-05-26T10:56:47.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:56:50.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T10:56:56.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:56:58.000+0000 %{host} @Le_Figaro : Les cons de France ..
+2014-05-26T10:56:58.000+0000 %{host} RT @EurosportCom_FR: Dans @le_Parisien Marquinhos explique qu'il va parler avec #PSG suite à l'arrivée de D. Luiz http://t.co/OAf6fdWjs1 http://t.co/IONWFOQxyR
+2014-05-26T10:57:05.000+0000 %{host} Barack Obama effectue une quatrième visite surprise en Afghanistan http://t.co/Q4UhROcu36 via @Le_Figaro
+2014-05-26T10:57:10.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T10:57:21.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:57:25.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:57:28.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:57:29.000+0000 %{host} RT @Le_Figaro: La victoire du FN présente «un risque de stigmatisation de la France à l'international» &gt;&gt; http://t.co/hSyJZSgPCJ http://t.co/xWoaEKolr8
+2014-05-26T10:57:41.000+0000 %{host} RT @Le_Figaro: EN DIRECT - La répartition des 751 sièges au Parlement européen &gt;&gt; http://t.co/2xFWYBI7uO #Europeennes2014 #EP2014 http://t.co/3si1szMco3
+2014-05-26T10:57:42.000+0000 %{host} @Le_Figaro @datirachida il est clair que les réformes "sociétales" ont lourdement contribué à ce vote sanction de la gauche!
+2014-05-26T10:57:47.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:57:48.000+0000 %{host} Noooooooooooon!!! RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/2bIYmPkq7J http://t.co/zDUedYTKuL
+2014-05-26T10:57:49.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:57:51.000+0000 %{host} Pôle emploi condamné à verser 23.000 euros à une ex-salariée http://t.co/OtsDPlKzyb via @Le_Figaro
+2014-05-26T10:57:51.000+0000 %{host} Exhibit A in G.E.’s Case for #Alstom Deal http://t.co/T6n5C6miG5 #ge #usa #france
+2014-05-26T10:57:51.000+0000 %{host} RT @lUMPmatuer: #PS Edouard Martin, élu député européen, mais mal-aimé à Florange http://t.co/alyupT9XUc via @le_Parisien
+2014-05-26T10:57:52.000+0000 %{host} RT @lemondefr : "Un photographe italien et son traducteur tués par un obus en Ukraine" http://t.co/1RP790VI1W
+2014-05-26T10:57:53.000+0000 %{host} @le_Parisien c la quon voit la france c des gros raciste ptdrrr!!
+2014-05-26T10:57:55.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:57:57.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:58:02.000+0000 %{host} "해산하던중에 잡혀갔다" 눈물흘리는 학생: http://t.co/MgQuIjsAGF  @BBCBreaking @nytimes @abcnews @TIME @lemondefr @PCCS_VA
+2014-05-26T10:58:04.000+0000 %{host} @leaducre Tu as lu L'Odyssée de Pi? Ils ont réouvert la piscine Molitor! http://t.co/2MQzTspY6J via @lemondefr
+2014-05-26T10:58:08.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:58:09.000+0000 %{host} “A quand en France ?
+ #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/tnvqU6ZgF3 http://t.co/hqfapaD7d1”#Europeennes2014
+2014-05-26T10:58:12.000+0000 %{host} @FranceLibre2 @lemondefr pour des personnes contre l'Europe, c'est l'Europe qui va les payer  et pour des sièges vides.
+2014-05-26T10:58:14.000+0000 %{host} RT @Le_Figaro: Pour les Américains, la victoire du FN est «une grosse affaire» &gt;&gt; http://t.co/3xMjvU9XBZ #TAFTA #Europeennes2014 http://t.co/RzFqjh7gG8
+2014-05-26T10:58:16.000+0000 %{host} RT @lemondefr : "Ce jeune prof de Drancy. Je ne sais pas ce que ça va donner mais il a la mérite de le faire! 😉 http://t.co/WXlzoDC7V0
+2014-05-26T10:58:17.000+0000 %{host} RT @lemondefr: Européennes : 70 % des départements français ont placé le FN en tête #EP2014 http://t.co/QpBWONTXDu http://t.co/HAbWgIEawR
+2014-05-26T10:58:17.000+0000 %{host} Pourquoi le 25 mai est plus grave que le 21 avril http://t.co/rZgx02EFhU via @lemondefr
+2014-05-26T10:58:26.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:58:30.000+0000 %{host} #Européennes : La Presse Internationale choquée par le triomphe des eurosceptiques &gt; http://t.co/u0ipWkotZK via @Le_Figaro
+2014-05-26T10:58:32.000+0000 %{host} @lemondefr @AbelMestre laissons d'abord voir ce qu'ils vont faire, s'ils y arrivent y en a qui vont fermer leur gueule !!!!!!
+2014-05-26T10:58:43.000+0000 %{host} @Padre_Pio @bricablog @Le_Figaro @datirachida Il en est où côté impunité le propriétaire du Figaro ?
+2014-05-26T10:58:44.000+0000 %{host} RT @RaphDeray: “@lemondefr: Européennes : ce que propose concrètement le FN http://t.co/UhPGjGA2SD” ..
+2014-05-26T10:58:44.000+0000 %{host} @philippechambon @Le_Figaro @JLMelenchon il peut être fière de la haine qu'il a répandue idem taubira  au fait  on ne l'entend plus!
+2014-05-26T10:58:45.000+0000 %{host} Pourquoi le 25 mai est + grave que le 21 avril via @lemondefr http://t.co/jpBxvmjpNb #ElectionsEuropeennes
+2014-05-26T10:58:55.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:58:56.000+0000 %{host} @Le_Figaro @datirachida  il faut surtout que son Pdt mal élu rende des comptes!
+2014-05-26T10:58:57.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:59:02.000+0000 %{host} Le pari gagné de Marine Le Pen http://t.co/WYj9SkxdDO via @Le_Figaro
+2014-05-26T10:59:05.924+0000 sd-49314 May 26 12:59:05 sd-49314 sshd[3797]: Connection closed by 78.227.76.205 [preauth]
+2014-05-26T10:59:07.000+0000 %{host} RT @yledu: Sinon (parce que c'était bien ça l'enjeu), le Parlement européen ressemblera à ça : http://t.co/rYtM4zAvI5 Le PPE perd 22% de ses sièges...
+2014-05-26T10:59:14.000+0000 %{host} “@lemondefr: Le 25 mai 2014 est plus grave que le 21 avril 2002. @lucbronner explique pourquoi #EP2014 http://t.co/Xi2XGK2eU7”
+2014-05-26T10:59:16.000+0000 %{host} RT @KarineMAHIEUX: Quelles sont les règles pour agrandir son logement ? http://t.co/LlfRVoJsT1 via @lemondefr #immobilier
+2014-05-26T10:59:26.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:59:28.000+0000 %{host} RT @le_Parisien: Le bébé saute par la fenêtre, un voisin le récupère au vol. La VIDÉO ici &gt;&gt;http://t.co/PF0ra7lZ69 http://t.co/YFIXuCV5Bg
+2014-05-26T10:59:28.000+0000 %{host} La oferta de General Electric sobre Alstom, nueva amenaza para las renovables http://t.co/YkEOsYuEp1. En @Cotizalia.
+2014-05-26T10:59:34.000+0000 %{host} RT @Le_Figaro: #archives Voici la une du 18 juin 1984, au lendemain d'élections européennes déjà marquées par une percée du FN... http://t.co/9rrjGyzWDU
+2014-05-26T10:59:35.000+0000 %{host} C'est reparti : Belgique: démission du gouvernement d'Elio Di Rupo après les législatives  http://t.co/51ueL1HlWT via @Le_Figaro
+2014-05-26T10:59:37.000+0000 %{host} Arbitrage Tapie: Claude Guéant placé en garde à vue via @Le_Figaro http://t.co/ED0359e0wg
+2014-05-26T10:59:40.000+0000 %{host} RT @jeromegodefroy: Les plateaux des télés les soirs d'élection, par @XavierGorce dans @lemondefr http://t.co/DAFqGnNbbD
+2014-05-26T10:59:41.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T10:59:41.000+0000 %{host} RT @kekemonsengs: @Le_Figaro @musulmanfrance oui un seul Dieu ! Vive la paix entre les religions. Dieu ne veut pas de haine entre nous ✌️
+2014-05-26T10:59:43.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:59:44.000+0000 %{host} #Belgique #Europe: démission du gouvernement d'Elio Di Rupo après les législatives  http://t.co/7bWknAhKQj via @Le_Figaro
+2014-05-26T10:59:53.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T10:59:55.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T10:59:56.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T10:59:57.000+0000 %{host} RT @CCaresche: 21 députés PS à l'offensive pour défendre les réformes Valls http://t.co/4p08PMuNqm via @lemondefr
+2014-05-26T10:59:57.000+0000 %{host} RT @jeromegodefroy: Les plateaux des télés les soirs d'élection, par @XavierGorce dans @lemondefr http://t.co/DAFqGnNbbD
+2014-05-26T10:59:57.000+0000 %{host} @Le_Figaro 
+belle image ! PAS  comme dans nos zones de NON DROIT LES ETHNIQUES 
+TA RACE ?  LES NIQUE TOUT ?  LES BEBES COUVEUSES UMPS ./
+2014-05-26T10:59:57.000+0000 %{host} VIDEO : le petit-fils du nazi Höss en campagne contre l'extreme droite http://t.co/xzrhDdheYv via @le_Parisien
+2014-05-26T11:00:00.000+0000 %{host} Belgique: démission du gouvernement d'Elio Di Rupo après les législatives  http://t.co/Vc5Rui65gG via @Le_Figaro
+2014-05-26T11:00:05.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:00:07.000+0000 %{host} WTF ? // Afghanistan: la CIA dévoile le nom de son chef - http://t.co/QRS0n41Vhh via @Le_Figaro
+2014-05-26T11:00:07.000+0000 %{host} RT @jeromegodefroy: Abstention, tradition française (suite) par @XavierGorce dans @lemondefr http://t.co/7tQiOvyVel
+2014-05-26T11:00:15.000+0000 %{host} Belgique : Le gouvernement d'Elio Di Rupo démissionne http://t.co/NRx5LyuP7S http://t.co/JNmdzkizCD @erwanlescop #m
+2014-05-26T11:00:18.000+0000 %{host} Belgique : Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ko2nnyzo14 http://t.co/zhCEP56mDQ @erwanlescop
+2014-05-26T11:00:23.059+0000 sd-49314 2014-05-26 13:00:22,903 fail2ban.actions: WARNING [ssh] Unban 192.3.17.250
+2014-05-26T11:00:23.000+0000 %{host} #LT A vous de jouer @ValentineHello @le_Parisien @JournalJDE @DigitaleBox @Allrun_Shop @Club_Vauban @LaFedees  @FMH_National @Tatabionature?
+2014-05-26T11:00:24.000+0000 %{host} Un ex-évadé de la prison d'Aiton comparaît à nouveau pour trafic de drogue http://t.co/A7SJKsTWuI (@le_Parisien)
+2014-05-26T11:00:25.000+0000 %{host} Affaire Tapie: Claude Guéant est arrivé à la brigade financière http://t.co/n1nOOcp9kv (@le_Parisien)
+2014-05-26T11:00:25.000+0000 %{host} @lemondefr @AbelMestre erreur: 8% des voix françaises adultes. 
+http://t.co/0SlC66vzqR http://t.co/5jrlrrRpmd
+2014-05-26T11:00:27.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:00:27.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:00:29.000+0000 %{host} @Le_Figaro décidément hein !!!
+2014-05-26T11:00:31.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:00:37.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:00:38.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:00:41.000+0000 %{host} RT @jeromegodefroy: Abstention : tradition française. Par @XavierGorce dans @lemondefr http://t.co/04yYqbRx0H
+2014-05-26T11:00:41.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:00:41.000+0000 %{host} RT @ABouchaert: Le pape invite les juifs à mieux connaître le christianisme via @Le_Figaro http://t.co/4PcZhZIq5J
+2014-05-26T11:00:43.000+0000 %{host} RT @ThierryGIORGIO: Européennes : Dupont-Aignan et Nouvelle Donne tirent leur épingle du jeu http://t.co/AD70p9BRmR via @le_parisien
+2014-05-26T11:00:43.000+0000 %{host} RT @lemondefr : "Ce jeune prof de Drancy qui voulait « changer le monde et sa classe »" et oui un bon prof ! http://t.co/w0wdkt9W2z
+2014-05-26T11:00:52.000+0000 %{host} RT @CarlMeeus: Une semaine politique avec Guillaume Garot Denis Payre Frederic Lefebvre c'etait ce week end dans @Le_Figaro magazine http://t.co/m00cuSmUQy
+2014-05-26T11:00:57.122+0000 sd-49314 May 26 13:00:57 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:01:03.135+0000 sd-49314 May 26 13:01:02 sd-49314 sshd[3836]: refused connect from 192.3.17.250 (192.3.17.250)
+2014-05-26T11:01:03.000+0000 %{host} Afghanistan: la CIA dévoile le nom de son chef http://t.co/2pyWt4lh6R via @Le_Figaro
+2014-05-26T11:01:06.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:01:07.000+0000 %{host} Etat, avocats, énarq prouv tous les jours qu'ils sav pas gérer! Alors, qu'ils se mêlent pas d'Alstom!Surtout qu'ils en possèdent 0%! May ...
+2014-05-26T11:01:13.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:01:12.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:01:15.000+0000 %{host} RT @lemondefr : "Vague europhobe sur le Vieux Continent" http://t.co/rawA1D29Qd
+2014-05-26T11:01:17.000+0000 %{host} RT @Le_Figaro: La Ferrari de Steve McQueen mise aux enchères. Des personnes intéressés? http://t.co/0hRAVgZblF http://t.co/SBvR41caP4
+2014-05-26T11:01:17.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:01:18.000+0000 %{host} RT @vonnydosax: I'm at Alstom Wind - Camaçari BA http://t.co/DE8Xou0SVA
+2014-05-26T11:01:19.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:01:20.000+0000 %{host} RT @jbmouttet: Au Mexique, le sous-commandant Marcos se retire de la direction des zapatistes http://t.co/L07y0jXqW0 via @lemondefr
+2014-05-26T11:01:22.000+0000 %{host} @Liliane7777777 @le_Parisien je crois que l'erreur est possible, ils sont tellement nuls bien que la fuite organisée soit probable
+2014-05-26T11:01:41.000+0000 %{host} Vague europhobe sur le Vieux Continent http://t.co/aaKVjUuZIY via @lemondefr
+2014-05-26T11:01:45.000+0000 %{host} RT @PorHumanidad: #Venezuela #25Mai 16h 3096 arrestations de manifestats 209mineurs http://t.co/qzniIfExHG http://t.co/hEQMQ2tCG9 @afpfr @lemondefr...
+2014-05-26T11:01:49.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:01:54.000+0000 %{host} La liste de Dupont-Aignan en tête chez lui à Yerres, à Brunoy et Montgeron http://t.co/tEOd30Kz1d via @le_Parisien
+2014-05-26T11:02:00.000+0000 %{host} @Le_Figaro je ne sais si vous êtes comme moi, je me suis réveillé encore plus Français. Je regrette que UPMS ne comprennent pas l'exeat subi
+2014-05-26T11:02:07.000+0000 %{host} Industrie du# luxe : le jackpot des grands patrons de #LVMH et de #Kering http://t.co/ftBM2POB5A via @Le_Parisien
+2014-05-26T11:02:10.000+0000 %{host} Européennes : et si les «populismes» avaient perdu ? http://t.co/B8IBVAdgXS via @Le_Figaro
+2014-05-26T11:02:10.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:02:13.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:02:16.000+0000 %{host} RT @CarlMeeus: Une semaine politique avec Guillaume Garot Denis Payre Frederic Lefebvre c'etait ce week end dans @Le_Figaro magazine http://t.co/m00cuSmUQy
+2014-05-26T11:02:20.000+0000 %{host} SE BATTRE: produit par @Agat_ExNihilo soutenu par @lemondefr à Paris, 7 Parnassiens, 20h30 et débat avec Michel &amp; Monique @PinconCharlot
+2014-05-26T11:02:22.000+0000 %{host} RT @jeromegodefroy: Les plateaux des télés les soirs d'élection, par @XavierGorce dans @lemondefr http://t.co/DAFqGnNbbD
+2014-05-26T11:02:23.259+0000 sd-49314 May 26 13:00:57 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:02:23.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:02:23.000+0000 %{host} General Electric masseert Fransen voor overname Alstom http://t.co/uChRZMIaKR
+2014-05-26T11:02:27.000+0000 %{host} RT @lemondefr: Européennes : 70 % des départements français ont placé le FN en tête #EP2014 http://t.co/QpBWONTXDu http://t.co/HAbWgIEawR
+2014-05-26T11:02:27.000+0000 %{host} RT @alni92: RT @lemondefr : "Pourquoi le 25 mai est plus grave que le 21 avril" http://t.co/ZsXlwQKiUG
+2014-05-26T11:02:28.000+0000 %{host} @lemondefr @AbelMestre la même chose à quelques lignes près que les autres, comme quoi les gens votent pas pr un programme mais pr un parti
+2014-05-26T11:02:29.000+0000 %{host} @vincentgiret @lemondefr quel rapport entre une élection européenne et le président de la France ?
+2014-05-26T11:02:35.000+0000 %{host} RT @DrZopito: #LT A vous de jouer @ValentineHello @le_Parisien @JournalJDE @DigitaleBox @Allrun_Shop @Club_Vauban @LaFedees  @FMH_National @Tatabionature?
+2014-05-26T11:02:41.291+0000 sd-49314 May 26 13:02:41 sd-49314 crontab[3089]: (arenasi) REPLACE (arenasi)
+2014-05-26T11:02:41.292+0000 sd-49314 May 26 13:02:41 sd-49314 crontab[3089]: (arenasi) END EDIT (arenasi)
+2014-05-26T11:02:43.300+0000 sd-49314 May 26 13:02:43 sd-49314 crontab[3894]: (arenasi) BEGIN EDIT (arenasi)
+2014-05-26T11:02:45.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:02:48.307+0000 sd-49314 May 26 13:02:47 sd-49314 crontab[3894]: (arenasi) END EDIT (arenasi)
+2014-05-26T11:02:50.311+0000 sd-49314 May 26 13:02:49 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:02:52.000+0000 %{host} @Le_Figaro @nellygoutte la France profonde vote FN ou anti UE et les villes votent PS UMP et écolo
+2014-05-26T11:02:54.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:02:55.320+0000 sd-49314 May 26 13:02:54 sd-49314 sshd[3909]: refused connect from 192.3.17.250 (192.3.17.250)
+2014-05-26T11:02:54.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:03:01.330+0000 sd-49314 May 26 13:02:49 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:03:01.330+0000 sd-49314 May 26 13:03:01 sd-49314 cron[870]: (arenasi) RELOAD (crontabs/arenasi)
+2014-05-26T11:03:05.000+0000 %{host} RT @lemondefr: Les élections européennes en BD (par @Vidberg, @XavierGorce et @gui_duch) http://t.co/SqspsA66bh http://t.co/82WTSlxkrV
+2014-05-26T11:03:06.000+0000 %{host} @Le_Figaro comme quoi, ça lui arrive lui aussi de dire pas mal de conneries
+2014-05-26T11:03:09.000+0000 %{host} Pourquoi le 25 mai est plus grave que le 21 avril http://t.co/mZeGNpRjga via @lemondefr
+2014-05-26T11:03:17.360+0000 sd-49314 May 26 13:03:17 sd-49314 crontab[3920]: (arenasi) BEGIN EDIT (arenasi)
+2014-05-26T11:03:17.000+0000 %{host} RT @sabje2410: “A quand en France ?
+ #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/tnvqU6ZgF3 http://t.co/hqfapaD7d1”#Europeennes2014
+2014-05-26T11:03:22.000+0000 %{host} @Le_Figaro je suis de tout coeur avec ce peuple qui a toujours subit il faut que cela cesse, et vite on ferait pas le quart à certains autre
+2014-05-26T11:03:26.000+0000 %{host} Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/QmWxV8VXqB #EP2014 #Europeennes2014 http://t.co/IE34JnorCY
+2014-05-26T11:03:26.000+0000 %{host} RT @sabje2410: “A quand en France ?
+ #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/tnvqU6ZgF3 http://t.co/hqfapaD7d1”#Europeennes2014
+2014-05-26T11:03:31.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:03:32.000+0000 %{host} RT @Le_Figaro: À Yad Vashem, le pape François dénonce la «tragédie incommensurable» de la Shoah &gt;&gt; http://t.co/pWaGlRim4t http://t.co/WttCqGnHpP
+2014-05-26T11:03:36.000+0000 %{host} A lire dans @le_Parisien, l'interview croisée de @FroehlicherT, nouveau DG #kedgebs et F. Pierson, Président du CA: http://t.co/kHnZnvceLo
+2014-05-26T11:03:39.000+0000 %{host} "@AlainMarschall: @Le_Figaro nous "serre" une belle faute !  @pavril  #Toutfoutlecamp http://t.co/kMduuKXVWd" @Bescherelle Je balance! :)
+2014-05-26T11:03:45.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:03:47.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:03:48.000+0000 %{host} Propinão tucano: Pressão política fez TCE liberar licitação, diz e-mail da Alstom | Os Amigos do... http://t.co/Px6IHA9hvi
+2014-05-26T11:03:48.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:03:52.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:03:56.000+0000 %{host} Votez FN pour vivre d'une façon isolés. http://t.co/dYEOm93PRi via @lemondefr
+2014-05-26T11:04:05.000+0000 %{host} RT @cassiandespien: @Le_Figaro @nellygoutte la France profonde vote FN ou anti UE et les villes votent PS UMP et écolo
+2014-05-26T11:04:19.000+0000 %{host} @Le_Figaro @datirachida il en faux des vrais claques!
+2014-05-26T11:04:20.000+0000 %{host} RT @Le_Figaro: #archives Voici la une du 18 juin 1984, au lendemain d'élections européennes déjà marquées par une percée du FN... http://t.co/9rrjGyzWDU
+2014-05-26T11:04:24.000+0000 %{host} Pas tout compris mais des raisons d'espérer ?
+Européennes : et si les «populismes» avaient perdu ? http://t.co/1Q68xvtKqR via @Le_Figaro
+2014-05-26T11:04:29.000+0000 %{host} Workers &amp; truck drivers protesting in south-central Iran http://t.co/05aPPZ2ACT http://t.co/E25BUnsEKo #lemondefr #NPR #Nypost #guardian
+2014-05-26T11:04:31.000+0000 %{host} RT @Le_Figaro: #archives «La France est en train de vivre un évènement politique exceptionnel», déclarait @lepenjm le 17/06/1984. http://t.co/MgDARthNrq
+2014-05-26T11:04:32.000+0000 %{host} «Monsieur Hollande, vous êtes le meilleur recruteur du FN» http://t.co/390E7y2iR7 via @Le_Figaro
+2014-05-26T11:04:35.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:04:37.493+0000 sd-49314 May 26 13:04:36 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:04:40.000+0000 %{host} RT @lemondefr: Européennes : 70 % des départements français ont placé le FN en tête #EP2014 http://t.co/QpBWONTXDu http://t.co/HAbWgIEawR
+2014-05-26T11:04:42.507+0000 sd-49314 May 26 13:04:41 sd-49314 sshd[4110]: refused connect from 192.3.17.250 (192.3.17.250)
+2014-05-26T11:04:43.000+0000 %{host} RT @SeBattrelefilm: SE BATTRE: produit par @Agat_ExNihilo soutenu par @lemondefr à Paris, 7 Parnassiens, 20h30 et débat avec Michel &amp; Monique @PinconCharlot
+2014-05-26T11:04:46.000+0000 %{host} @Le_Figaro elles ne lavent jamais leurs soutien-gorges, ces femmes vulgaires...
+2014-05-26T11:04:46.000+0000 %{host} Areva va signer un accord avec le Niger http://t.co/YDWG6cGN6j via @Le_Figaro
+2014-05-26T11:04:51.000+0000 %{host} RT @elisaou750: Donc #Guéant est en GAV au même motif que la fois précédente ou ils n'avaient rien trouvé #Stop 😡 via @Le_Figaro http://t.co/nerUUCvbsQ
+2014-05-26T11:04:56.000+0000 %{host} .“@Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/DwjSoo1Xze http://t.co/ugs0aFqgBv” Que fait #Valls ? #EP2014
+2014-05-26T11:05:11.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:05:15.000+0000 %{host} RT @Herissident: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/QmWxV8VXqB #EP2014 #Europeennes2014 http://t.co/IE34JnorCY
+2014-05-26T11:05:16.000+0000 %{host} Peillon, Boutin, Martin, Jouanno... Ces personnalités qui ont échoué aux #Europeennes2014 &gt;&gt; http://t.co/yBBvN72oJg http://t.co/RMNqQntUvU
+2014-05-26T11:05:26.000+0000 %{host} Brachay, le village où l'UMP et le PS n'obtiennent aucune voix via @Le_Figaro http://t.co/ZQEfgQHXfR
+2014-05-26T11:05:28.000+0000 %{host} Jeux vidéo : Sony autorisé à commercialiser sa Playstation 4 en Chine  http://t.co/x6zKUgvQKH via @Le_Parisien protectionnisme intelligent
+2014-05-26T11:05:28.000+0000 %{host} RT @PorHumanidad: #Venezuela #25Mai 16h 3096 arrestations de manifestats 209mineurs http://t.co/qzniIfExHG http://t.co/hEQMQ2tCG9 @afpfr @lemondefr...
+2014-05-26T11:05:32.000+0000 %{host} RT @lemondefr : "Pourquoi le 25 mai est plus grave que le 21 avril" http://t.co/5OyKaAJwKy
+2014-05-26T11:05:36.000+0000 %{host} @Le_Figaro @datirachida Ce n'est pas Vaills, c'est les incivilités de certains citoyens qui persistent depuis des années !
+2014-05-26T11:05:40.000+0000 %{host} RT @KarineMAHIEUX: Quelles sont les règles pour agrandir son logement ? http://t.co/LlfRVoJsT1 via @lemondefr #immobilier
+2014-05-26T11:05:49.000+0000 %{host} RT @cbanque: Suivez-nous pour rester informé des dernières actualités pour votre argent ! http://t.co/GxjklLab9T
+2014-05-26T11:05:50.000+0000 %{host} @Le_Figaro @JLMelenchon On peut être tribun et lâche,,,, qui part pour ne plus entendre, comprend que la France a envi de changement, lâche
+2014-05-26T11:05:52.000+0000 %{host} Européennes : la presse internationale choquée par le triomphe des eurosceptiques http://t.co/87FPstkN90 via @Le_Figaro
+2014-05-26T11:05:53.615+0000 sd-49314 May 26 13:04:36 sd-49314 named[877]: error (unexpected RCODE SERVFAIL) resolving '250.17.3.192.in-addr.arpa/PTR/IN': 199.21.112.12#53
+2014-05-26T11:05:53.000+0000 %{host} @mmojorising @El_Fffakir Va dire ça aux employés d'Alstom
+2014-05-26T11:05:55.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:05:57.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:05:57.000+0000 %{host} RT @Le_Figaro: #Belgique Le gouvernement d'Elio Di Rupo démissionne http://t.co/Ja9FvwgppT http://t.co/E1UxrA3u4D
+2014-05-26T11:06:01.000+0000 %{host} RT @Le_Figaro: EN IMAGES - François prend dans ses bras deux proches amis, l'un musulman, l'autre juif &gt;&gt; http://t.co/sX7H5yZkbg http://t.co/IOGSoEcRab
+2014-05-26T11:06:04.000+0000 %{host} @elisaou750 @moussya @Le_Figaro https://t.co/JzlNpYOa5O
+2014-05-26T11:06:09.000+0000 %{host} C'est parti pour @Le_Scan_Sport sur @Le_Figaro !
+2014-05-26T11:06:12.000+0000 %{host} RT @Le_Figaro: Peillon, Boutin, Martin, Jouanno... Ces personnalités qui ont échoué aux #Europeennes2014 &gt;&gt; http://t.co/yBBvN72oJg http://t.co/RMNqQntUvU
+2014-05-26T11:06:13.647+0000 sd-49314 May 26 13:06:12 sd-49314 crontab[3920]: (arenasi) REPLACE (arenasi)
+2014-05-26T11:06:13.648+0000 sd-49314 May 26 13:06:12 sd-49314 crontab[3920]: (arenasi) END EDIT (arenasi)
+2014-05-26T11:06:16.000+0000 %{host} RT @Le_Figaro: Brachay, ce village où l'UMP et le PS n'ont obtenu aucune voix http://t.co/F7qBPtVXTA #EP2014 #Europeennes2014 http://t.co/q8aqpUaTL9
+2014-05-26T11:06:18.000+0000 %{host} Attilio Maggiulli (Comédie Italienne) : l'Élysée a abandonné sa plainte... http://t.co/Yz1N9WoKLI via @Le_Figaro
+2014-05-26T11:06:19.000+0000 %{host} Résultats des Européennes 2014 | @lemondefr http://t.co/6wxp6w8YSR
+2014-05-26T11:06:20.659+0000 sd-49314 May 26 13:06:19 sd-49314 kernel: Kernel logging (proc) stopped.
+2014-05-26T11:06:20.661+0000 sd-49314 May 26 13:06:19 sd-49314 sudo:  arenasi : TTY=pts/2 ; PWD=/home/arenasi/Maquette/elasticsearch/elasticsearch-1.1.1/scripts/twitter_plugin ; USER=root ; COMMAND=/sbin/reboot
+2014-05-26T11:06:20.662+0000 sd-49314 May 26 13:06:19 sd-49314 sudo: pam_unix(sudo:session): session opened for user root by arenasi(uid=1000)
+2014-05-26T11:06:20.662+0000 sd-49314 May 26 13:06:19 sd-49314 sudo: pam_unix(sudo:session): session closed for user root
+2014-05-26T11:06:20.664+0000 sd-49314 May 26 13:06:19 sd-49314 kernel: Kernel logging (proc) stopped.
+2014-05-26T11:06:20.664+0000 sd-49314 May 26 13:06:19 sd-49314 rsyslogd: [origin software="rsyslogd" swVersion="5.8.6" x-pid="655" x-info="http://www.rsyslog.com"] exiting on signal 15.
+2014-05-26T11:06:22.000+0000 %{host} RT @Minimalist_News: Les #ElectionsEuropeennes c'est fini, avez-vous voté ?
+#Europe #EuropeanElections
+http://t.co/mDGMIr28yO @lemondefr http://t.co/wVLE4gSclc
+2014-05-26T11:06:24.671+0000 sd-49314 2014-05-26 13:06:24,052 fail2ban.server : INFO   Stopping all jails
+2014-05-26T11:06:24.672+0000 sd-49314 2014-05-26 13:06:24,299 fail2ban.jail   : INFO   Jail 'ssh' stopped
+2014-05-26T11:06:24.672+0000 sd-49314 2014-05-26 13:06:24,299 fail2ban.server : INFO   Exiting Fail2ban

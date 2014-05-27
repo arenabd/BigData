@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl
+END
+ChainsTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1551552/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/ChainsTracker.java
+END
+ServiceReferenceRankingComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/ServiceReferenceRankingComparator.java
+END
+UrlReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/UrlReference.java
+END
+ByteArraySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/ByteArraySource.java
+END
+EnginesTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1551552/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/EnginesTracker.java
+END
+NameBasedServiceTrackingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1551552/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/NameBasedServiceTrackingState.java
+END
+AbstractContentItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/AbstractContentItemFactory.java
+END
+AbstractChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/AbstractChain.java
+END
+StringSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/StringSource.java
+END
+SingleEngineChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/SingleEngineChain.java
+END
+ContentItemImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/ContentItemImpl.java
+END
+StreamSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/StreamSource.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/package.html
+END
+AbstractEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/java/org/apache/stanbol/enhancer/servicesapi/impl/AbstractEnhancementEngine.java
+END

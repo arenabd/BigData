@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth
+END
+AuthenticationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/AuthenticationMethod.java
+END
+AuthenticationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/AuthenticationService.java
+END
+WeightedAuthenticationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/WeightedAuthenticationMethod.java
+END
+PrincipalImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/PrincipalImpl.java
+END
+AuthenticationChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/AuthenticationChecker.java
+END
+AuthenticationCheckerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/AuthenticationCheckerImpl.java
+END
+CheckAuthenticationPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/CheckAuthenticationPermission.java
+END
+LoginException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/LoginException.java
+END
+AuthenticatingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/AuthenticatingFilter.java
+END
+LoginListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/LoginListener.java
+END
+NoSuchAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/auth/NoSuchAgent.java
+END

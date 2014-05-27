@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1587849/stanbol/trunk/entityhub/query/sparql/src/main/java/org/apache/stanbol/entityhub/query/sparql
+END
+SparqlQueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1587849/stanbol/trunk/entityhub/query/sparql/src/main/java/org/apache/stanbol/entityhub/query/sparql/SparqlQueryUtils.java
+END
+SparqlEndpointTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/query/sparql/src/main/java/org/apache/stanbol/entityhub/query/sparql/SparqlEndpointTypeEnum.java
+END
+SparqlFieldQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/query/sparql/src/main/java/org/apache/stanbol/entityhub/query/sparql/SparqlFieldQuery.java
+END
+SparqlFieldQueryFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/query/sparql/src/main/java/org/apache/stanbol/entityhub/query/sparql/SparqlFieldQueryFactory.java
+END

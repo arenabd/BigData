@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Plain#decode using default UTF-8 charset" tests="2" time="0.004" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Plain#decode using default UTF-8 charset should decode valid UTF-8 input" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Codecs::Plain#decode using default UTF-8 charset should escape invalid sequences" time="0.003">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

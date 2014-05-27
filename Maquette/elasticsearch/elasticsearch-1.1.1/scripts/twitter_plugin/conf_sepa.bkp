@@ -1,0 +1,26 @@
+curl -XPUT 'localhost:9200/twitter_elasticsearch'
+
+echo ""
+
+curl -XPUT localhost:9200/_river/twitter_elasticsearch_river/_meta -d '
+{
+    "type" : "twitter_el",
+    "twitter" : {
+        "oauth" : {
+            "consumer_key" : "Xz6UkCni85xIav5s2G1pw",
+            "consumer_secret" : "FWJb1YNWxei3bYhf5EBfVuOYZnGHhoSUjKx1JeV1UiE",
+            "access_token" : "2304510085-ufBPE8wJThxtfEGQx1Xc5r84It7omWxf0lyxc8d",
+            "access_token_secret" : "irJRp5mIKKV8skIpfcDFnW2tQuRQTXaZK1q9aCvJ61tRS"
+        },
+        "filter" : {
+            "tracks" : "SEPA,SepaMigration,mongodb,nosql,BigData"
+        }
+    },
+    "index" : {
+        "index" : "twitter_elasticsearch",
+       	"type" : "tweet",
+	"bulk_size" : 500,
+       }
+}'
+
+echo ""

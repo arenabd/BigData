@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Event#[]" tests="3" time="0.014" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Event#[] should fetch data" time="0.01">
+  </testcase>
+  <testcase name="LogStash::Event#[] should fetch fields" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event#[] should fetch deep fields" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

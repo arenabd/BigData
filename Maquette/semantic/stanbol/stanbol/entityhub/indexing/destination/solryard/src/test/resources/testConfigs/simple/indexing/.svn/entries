@@ -1,0 +1,40 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/simple/indexing
+http://svn.apache.org/repos/asf
+
+
+
+2011-07-14T13:17:56.542906Z
+1146687
+fchrist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+destination
+dir
+
+dist
+dir
+
+config
+dir
+
+resources
+dir
+

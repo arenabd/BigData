@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl
+END
+maincharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/maincharacters.owl
+END
+named.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/named.owl
+END
+versioned_distance-100.owl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/versioned_distance-100.owl
+END
+nameless.owl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/nameless.owl
+END
+versioned_immediate.owl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/versioned_immediate.owl
+END
+versioned.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/versioned.owl
+END
+named_immediate.owl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/named_immediate.owl
+END
+versioned_distance-100-reversed.owl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/owl/src/test/resources/owl/versioned_distance-100-reversed.owl
+END

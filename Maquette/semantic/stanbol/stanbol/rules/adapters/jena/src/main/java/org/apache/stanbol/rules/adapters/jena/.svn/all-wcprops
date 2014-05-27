@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena
+END
+JenaAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/JenaAdapter.java
+END
+HigherOrderClauseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/HigherOrderClauseEntry.java
+END
+NodeClauseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/NodeClauseEntry.java
+END
+VariableClauseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/VariableClauseEntry.java
+END
+NodeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1587512/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/jena/NodeFactory.java
+END

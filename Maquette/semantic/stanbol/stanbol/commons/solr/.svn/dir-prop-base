@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 40
+.classpath
+
+.project
+
+.settings
+
+target
+
+K 13
+svn:mergeinfo
+V 95
+/stanbol/branches/release-0.12/commons/solr:1572583
+/stanbol/trunk/commons/solr:1487448-1533448
+END

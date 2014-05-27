@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1534535/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core
+END
+default.solrindex.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/default.solrindex.zip
+END
+smartcn.solrindex.zip
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/smartcn.solrindex.zip
+END
+paoding.solrindex.outdated
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/paoding.solrindex.outdated
+END
+entityhub.solrindex.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/entityhub.solrindex.zip
+END
+allextras.solrindex.zip
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/allextras.solrindex.zip
+END
+kuromoji.solrindex.zip
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/resources/solr/core/kuromoji.solrindex.zip
+END

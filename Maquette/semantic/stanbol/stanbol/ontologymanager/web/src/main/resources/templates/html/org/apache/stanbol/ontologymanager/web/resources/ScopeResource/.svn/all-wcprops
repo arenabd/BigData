@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/ScopeResource
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/ScopeResource/index.ftl
+END
+restapi.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/ScopeResource/restapi.ftl
+END
+ontology.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/ScopeResource/ontology.ftl
+END
+conflict.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/ScopeResource/conflict.ftl
+END

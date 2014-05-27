@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query
+END
+ConstraintTypePosition.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query/ConstraintTypePosition.java
+END
+IndexConstraintTypeEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query/IndexConstraintTypeEncoder.java
+END
+EncodedConstraintParts.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query/EncodedConstraintParts.java
+END
+IndexConstraintTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query/IndexConstraintTypeEnum.java
+END
+QueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/query/QueryUtils.java
+END

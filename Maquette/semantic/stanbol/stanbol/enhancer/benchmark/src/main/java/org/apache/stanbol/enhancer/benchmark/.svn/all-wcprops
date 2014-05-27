@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1587527/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark
+END
+TripleMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark/TripleMatcher.java
+END
+BenchmarkParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark/BenchmarkParser.java
+END
+BenchmarkResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark/BenchmarkResult.java
+END
+Benchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark/Benchmark.java
+END
+TripleMatcherGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/benchmark/src/main/java/org/apache/stanbol/enhancer/benchmark/TripleMatcherGroup.java
+END

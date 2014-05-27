@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/defaults
+END
+SolrConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/defaults/SolrConst.java
+END
+IndexDataTypeEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/defaults/IndexDataTypeEnum.java
+END
+QueryConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/yard/solr/src/main/java/org/apache/stanbol/entityhub/yard/solr/defaults/QueryConst.java
+END

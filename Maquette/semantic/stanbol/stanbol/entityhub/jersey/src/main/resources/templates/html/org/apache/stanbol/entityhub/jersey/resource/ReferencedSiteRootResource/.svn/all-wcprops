@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource
+END
+inc_entity.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/inc_entity.ftl
+END
+inc_ldpath.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/inc_ldpath.ftl
+END
+query.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/query.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/index.ftl
+END
+inc_find.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/inc_find.ftl
+END
+inc_metadata.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/inc_metadata.ftl
+END
+entity.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/entity.ftl
+END
+ldpath.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/ldpath.ftl
+END
+site_common.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/site_common.ftl
+END
+inc_query.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/inc_query.ftl
+END
+find.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/jersey/src/main/resources/templates/html/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource/find.ftl
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancement-engines/restful-langident/src/main/java/org/apache/stanbol/enhancer/engines/restful/langident/impl
+END
+RestfulLangidentEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancement-engines/restful-langident/src/main/java/org/apache/stanbol/enhancer/engines/restful/langident/impl/RestfulLangidentEngine.java
+END
+LangSuggestion.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/restful-langident/src/main/java/org/apache/stanbol/enhancer/engines/restful/langident/impl/LangSuggestion.java
+END

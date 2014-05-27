@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/httpqueryheaders/src/main/java/org/apache/stanbol/commons/httpqueryheaders
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/httpqueryheaders/src/main/java/org/apache/stanbol/commons/httpqueryheaders/Constants.java
+END
+OverwriteableHeaderHttpServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/httpqueryheaders/src/main/java/org/apache/stanbol/commons/httpqueryheaders/OverwriteableHeaderHttpServletRequest.java
+END

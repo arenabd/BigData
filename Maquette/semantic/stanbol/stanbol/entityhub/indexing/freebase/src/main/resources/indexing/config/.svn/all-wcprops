@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config
+END
+namespaceprefix.mappings
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/namespaceprefix.mappings
+END
+fieldboosts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/fieldboosts.properties
+END
+mappings.ldpath
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/mappings.ldpath
+END
+entityTypes.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/entityTypes.properties
+END
+mappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/mappings.txt
+END
+propertyfilter.config
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/propertyfilter.config
+END
+fst.config
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/fst.config
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/indexing.properties
+END
+iditerator.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/iditerator.properties
+END
+indexingsource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/indexingsource.properties
+END
+siteMappings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/siteMappings.txt
+END
+minincoming.properties
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/minincoming.properties
+END
+scorerange.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/resources/indexing/config/scorerange.properties
+END

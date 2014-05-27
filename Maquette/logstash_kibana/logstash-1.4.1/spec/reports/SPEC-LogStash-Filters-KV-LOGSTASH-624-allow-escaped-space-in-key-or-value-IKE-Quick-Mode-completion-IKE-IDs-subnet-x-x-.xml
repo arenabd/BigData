@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::KV LOGSTASH-624: allow escaped space in key or value  &quot;IKE:=Quick\ Mode\ completion IKE\ IDs:=subnet:\ x.x...&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::KV LOGSTASH-624: allow escaped space in key or value  &quot;IKE:=Quick\ Mode\ completion IKE\ IDs:=subnet:\ x.x...&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

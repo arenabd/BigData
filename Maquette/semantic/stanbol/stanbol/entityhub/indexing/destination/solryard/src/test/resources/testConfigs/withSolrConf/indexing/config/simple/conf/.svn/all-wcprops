@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/scripts.conf
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/spellings.txt
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/schema.xml
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/protwords.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/stopwords.txt
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/solrconfig.xml
+END
+stopwords_en.txt
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/stopwords_en.txt
+END
+mapping-FoldToASCII.txt
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/mapping-FoldToASCII.txt
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/destination/solryard/src/test/resources/testConfigs/withSolrConf/indexing/config/simple/conf/mapping-ISOLatin1Accent.txt
+END

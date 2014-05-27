@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/opennlp/opennlp-chunker/src/main/java/org/apache/stanbol/enhancer/engines/opennlp/chunker/model
+END
+PhraseTagSetRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1587512/stanbol/trunk/enhancement-engines/opennlp/opennlp-chunker/src/main/java/org/apache/stanbol/enhancer/engines/opennlp/chunker/model/PhraseTagSetRegistry.java
+END

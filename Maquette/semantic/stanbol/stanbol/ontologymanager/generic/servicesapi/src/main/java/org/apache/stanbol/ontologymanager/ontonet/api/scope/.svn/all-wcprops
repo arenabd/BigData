@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope
+END
+CustomOntologySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/CustomOntologySpace.java
+END
+ScopeEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/ScopeEventListener.java
+END
+ScopeRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/ScopeRegistry.java
+END
+OntologyScope.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/OntologyScope.java
+END
+OntologySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/OntologySpace.java
+END
+OntologyScopeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/OntologyScopeFactory.java
+END
+ScopeEventListenable.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/ScopeEventListenable.java
+END
+CoreOntologySpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/scope/CoreOntologySpace.java
+END

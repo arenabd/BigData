@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames
+END
+HierarchyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/HierarchyProcessor.java
+END
+AlternateLabelProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/AlternateLabelProcessor.java
+END
+GeonamesEntityScoreProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/GeonamesEntityScoreProvider.java
+END
+LineTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/LineTokenizer.java
+END
+GeonamesIndexingSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/GeonamesIndexingSource.java
+END
+GeonamesPropertyEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/GeonamesPropertyEnum.java
+END
+GeonamesConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/geonames/src/main/java/org/apache/stanbol/entityhub/indexing/geonames/GeonamesConstants.java
+END

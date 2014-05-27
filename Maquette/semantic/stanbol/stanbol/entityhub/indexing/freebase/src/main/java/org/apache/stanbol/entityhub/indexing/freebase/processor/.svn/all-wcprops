@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/java/org/apache/stanbol/entityhub/indexing/freebase/processor
+END
+FreebaseAbbrevationProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/java/org/apache/stanbol/entityhub/indexing/freebase/processor/FreebaseAbbrevationProcessor.java
+END
+FreebaseImageProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/java/org/apache/stanbol/entityhub/indexing/freebase/processor/FreebaseImageProcessor.java
+END
+FreebaseKeyProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/freebase/src/main/java/org/apache/stanbol/entityhub/indexing/freebase/processor/FreebaseKeyProcessor.java
+END

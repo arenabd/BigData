@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/offline/src/main/java/org/apache/stanbol/commons/stanboltools/offline
+END
+OfflineMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/offline/src/main/java/org/apache/stanbol/commons/stanboltools/offline/OfflineMode.java
+END
+OnlineMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/offline/src/main/java/org/apache/stanbol/commons/stanboltools/offline/OnlineMode.java
+END
+Activator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/offline/src/main/java/org/apache/stanbol/commons/stanboltools/offline/Activator.java
+END

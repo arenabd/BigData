@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimatotriples/src/main/java/org/apache/stanbol/enhancer/engines/uimatotriples/tools
+END
+FeatureFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimatotriples/src/main/java/org/apache/stanbol/enhancer/engines/uimatotriples/tools/FeatureFilter.java
+END
+FeatureStructureFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimatotriples/src/main/java/org/apache/stanbol/enhancer/engines/uimatotriples/tools/FeatureStructureFilter.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/refactor/src/main/resources/META-INF/default
+END
+dbpedia_demo.owl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/refactor/src/main/resources/META-INF/default/dbpedia_demo.owl
+END
+seo_rules.sem
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/refactor/src/main/resources/META-INF/default/seo_rules.sem
+END

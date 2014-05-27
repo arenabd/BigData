@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1587798/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql
+END
+SPARQLComparison.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLComparison.java
+END
+SPARQLTriple.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLTriple.java
+END
+SPARQLAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1587561/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLAdapter.java
+END
+SPARQLNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLNot.java
+END
+SPARQLFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLFunction.java
+END
+SPARQLQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/sparql/src/main/java/org/apache/stanbol/rules/adapters/sparql/SPARQLQuery.java
+END

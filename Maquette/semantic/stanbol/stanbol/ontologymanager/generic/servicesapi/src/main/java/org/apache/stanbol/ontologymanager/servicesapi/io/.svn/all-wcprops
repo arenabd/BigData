@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io
+END
+Origin.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/Origin.java
+END
+OntologyInputSourceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/OntologyInputSourceHandler.java
+END
+OntologyInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/OntologyInputSource.java
+END
+SetInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/SetInputSource.java
+END
+StoredOntologySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/StoredOntologySource.java
+END
+AbstractOntologyReferenceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/AbstractOntologyReferenceSource.java
+END
+AbstractGenericInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/servicesapi/io/AbstractGenericInputSource.java
+END

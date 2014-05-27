@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi
+END
+UnsupportedTaskException.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/UnsupportedTaskException.java
+END
+ReasoningServiceInputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningServiceInputFactory.java
+END
+InconsistentInputException.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/InconsistentInputException.java
+END
+UnboundReasoningServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/UnboundReasoningServiceException.java
+END
+ReasoningServiceInputManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningServiceInputManager.java
+END
+ReasoningServiceInputProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningServiceInputProvider.java
+END
+ReasoningServicesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningServicesManager.java
+END
+ReasoningServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningServiceException.java
+END
+ReasoningService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/servicesapi/src/main/java/org/apache/stanbol/reasoners/servicesapi/ReasoningService.java
+END

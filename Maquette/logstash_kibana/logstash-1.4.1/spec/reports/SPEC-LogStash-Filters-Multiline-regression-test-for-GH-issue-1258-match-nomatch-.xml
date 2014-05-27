@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Multiline regression test for GH issue #1258 &quot;[&quot;  match&quot;,&quot;nomatch&quot;]&quot;" tests="1" time="0.016" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Multiline regression test for GH issue #1258 &quot;[&quot;  match&quot;,&quot;nomatch&quot;]&quot; when processed" time="0.016">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

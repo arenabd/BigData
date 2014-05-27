@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/resources/testOsgiConfiguration/bundlebuild/indexing/destination/config/org/apache/stanbol/data/site/dbpedia
+END
+org.apache.stanbol.entityhub.site.referencedSite-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 247
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/resources/testOsgiConfiguration/bundlebuild/indexing/destination/config/org/apache/stanbol/data/site/dbpedia/org.apache.stanbol.entityhub.site.referencedSite-dbpedia.config
+END
+org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 251
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/resources/testOsgiConfiguration/bundlebuild/indexing/destination/config/org/apache/stanbol/data/site/dbpedia/org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-dbpedia.config
+END
+dbpedia.solrindex.ref
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/resources/testOsgiConfiguration/bundlebuild/indexing/destination/config/org/apache/stanbol/data/site/dbpedia/dbpedia.solrindex.ref
+END
+org.apache.stanbol.entityhub.core.site.CacheImpl-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 247
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/resources/testOsgiConfiguration/bundlebuild/indexing/destination/config/org/apache/stanbol/data/site/dbpedia/org.apache.stanbol.entityhub.core.site.CacheImpl-dbpedia.config
+END

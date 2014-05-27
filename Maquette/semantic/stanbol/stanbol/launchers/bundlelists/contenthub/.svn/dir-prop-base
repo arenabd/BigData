@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 37
+target
+.project
+.settings
+.classpath
+
+K 13
+svn:mergeinfo
+V 163
+/incubator/stanbol/branches/faceted-browsing/contenthub/bundlelist:1325631-1333404
+/stanbol/branches/stanbol-solr4/launchers/bundlelists/contenthub:1455112-1458685
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/java/org/apache/stanbol/ontologymanager/sources/clerezza
+END
+Locations.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/java/org/apache/stanbol/ontologymanager/sources/clerezza/Locations.java
+END
+MockOsgiContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/java/org/apache/stanbol/ontologymanager/sources/clerezza/MockOsgiContext.java
+END
+TestClerezzaInputSources.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/java/org/apache/stanbol/ontologymanager/sources/clerezza/TestClerezzaInputSources.java
+END

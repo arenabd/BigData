@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security
+END
+PermissionDefinitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/PermissionDefinitions.java
+END
+SecurityActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/SecurityActivator.java
+END
+UserUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/UserUtil.java
+END
+WebIdBasedPermissionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/WebIdBasedPermissionProvider.java
+END
+UserAwarePolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/UserAwarePolicy.java
+END
+UserPermissionsCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/UserPermissionsCache.java
+END
+UserUnregisteredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/UserUnregisteredException.java
+END
+PasswordUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/security/core/src/main/java/org/apache/stanbol/commons/security/PasswordUtil.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Grok ietf 5424 syslog line &quot;&lt;191&gt;1 2009-06-30T18:30:00+02:00 paxton.local grokd...&quot;" tests="1" time="0.017" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Grok ietf 5424 syslog line &quot;&lt;191&gt;1 2009-06-30T18:30:00+02:00 paxton.local grokd...&quot; when processed" time="0.017">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

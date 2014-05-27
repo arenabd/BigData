@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology
+END
+OntologyNetworkMultiplexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OntologyNetworkMultiplexer.java
+END
+OntologyHandleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OntologyHandleException.java
+END
+OntologyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OntologyProvider.java
+END
+OWLExportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OWLExportable.java
+END
+OntologyLoadingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OntologyLoadingException.java
+END
+OrphanOntologyKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/generic/servicesapi/src/main/java/org/apache/stanbol/ontologymanager/ontonet/api/ontology/OrphanOntologyKeyException.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1587798/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl
+END
+SessionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1587798/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/SessionImpl.java
+END
+CoreSpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/CoreSpaceImpl.java
+END
+AbstractOntologyCollectorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repos/asf/!svn/ver/1587561/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/AbstractOntologyCollectorImpl.java
+END
+CustomSpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/CustomSpaceImpl.java
+END
+ScopeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/ScopeImpl.java
+END
+AbstractOntologySpaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/main/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/impl/AbstractOntologySpaceImpl.java
+END

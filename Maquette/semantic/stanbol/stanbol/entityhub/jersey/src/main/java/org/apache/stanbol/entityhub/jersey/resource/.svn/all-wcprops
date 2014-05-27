@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource
+END
+ReferencedSiteRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/ReferencedSiteRootResource.java
+END
+EntityhubRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/EntityhubRootResource.java
+END
+SiteManagerRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/SiteManagerRootResource.java
+END

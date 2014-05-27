@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/input/impl
+END
+SimpleInputManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/input/impl/SimpleInputManager.java
+END
+RESTInputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/java/org/apache/stanbol/reasoners/web/input/impl/RESTInputFactory.java
+END

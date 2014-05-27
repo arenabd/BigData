@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::OldLogStashJSON#decode" tests="2" time="0.002" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::OldLogStashJSON#decode should return a new (v1) event from old (v0) json data" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Codecs::OldLogStashJSON#decode should accept invalid json" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

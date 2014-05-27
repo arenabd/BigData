@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Graphite#encode" tests="3" time="0.005" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Graphite#encode should emit an graphite formatted line" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Codecs::Graphite#encode should treat fields as metrics if fields as metrics flag is set" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Codecs::Graphite#encode should change the metric name format when metrics_format is set" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

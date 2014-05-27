@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/mapping
+END
+ValueConverterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/mapping/ValueConverterFactory.java
+END
+DefaultFieldMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/mapping/DefaultFieldMapperImpl.java
+END
+FieldMappingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/mapping/FieldMappingUtils.java
+END

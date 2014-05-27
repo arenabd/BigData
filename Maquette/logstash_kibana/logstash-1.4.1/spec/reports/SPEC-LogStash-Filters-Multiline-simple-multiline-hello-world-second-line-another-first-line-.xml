@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Multiline simple multiline &quot;[&quot;hello world&quot;,&quot;   second line&quot;,&quot;another first line...&quot;" tests="1" time="0.018" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Multiline simple multiline &quot;[&quot;hello world&quot;,&quot;   second line&quot;,&quot;another first line...&quot; when processed" time="0.018">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

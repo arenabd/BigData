@@ -1,0 +1,80 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/commons/solr
+http://svn.apache.org/repos/asf
+
+
+
+2014-04-18T12:11:26.919243Z
+1588454
+rwesten
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+extras
+dir
+
+install
+dir
+
+defaults
+dir
+
+core
+dir
+
+managed
+dir
+
+README.md
+file
+
+
+
+
+2014-05-12T13:24:47.306038Z
+6de8732807d497b2fcf5042968cf48ca
+2012-01-06T15:08:46.621787Z
+1228225
+fchrist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26813
+
+web
+dir
+

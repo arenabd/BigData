@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parse syslog &quot;{&quot;message&quot;:&quot;&lt;164&gt;Oct 26 15:19:25 1.2.3.4 %ASA-4-106...&quot;" tests="1" time="0.034" failures="0" errors="0" skipped="0">
+  <testcase name="parse syslog &quot;{&quot;message&quot;:&quot;&lt;164&gt;Oct 26 15:19:25 1.2.3.4 %ASA-4-106...&quot; when processed" time="0.034">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

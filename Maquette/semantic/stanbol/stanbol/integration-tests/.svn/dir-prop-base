@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 105
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+sling
+
+K 13
+svn:mergeinfo
+V 122
+/stanbol/branches/release-0.12/integration-tests:1587573
+/stanbol/branches/stanbol-solr4/integration-tests:1455112-1458685
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/html/org/apache/stanbol/rules/web/resources/RulesResource
+END
+rules.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/html/org/apache/stanbol/rules/web/resources/RulesResource/rules.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/templates/html/org/apache/stanbol/rules/web/resources/RulesResource/index.ftl
+END

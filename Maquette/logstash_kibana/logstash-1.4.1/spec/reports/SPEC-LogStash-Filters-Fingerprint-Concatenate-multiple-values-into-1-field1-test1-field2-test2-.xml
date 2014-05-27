@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Fingerprint Concatenate multiple values into 1 &quot;{&quot;field1&quot;:&quot;test1&quot;,&quot;field2&quot;:&quot;test2&quot;}&quot;" tests="1" time="0.011" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Fingerprint Concatenate multiple values into 1 &quot;{&quot;field1&quot;:&quot;test1&quot;,&quot;field2&quot;:&quot;test2&quot;}&quot; when processed" time="0.01">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

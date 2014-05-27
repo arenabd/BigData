@@ -1,0 +1,1 @@
+curl -XDELETE http://localhost:9200/_river/twitter_elasticsearch_river/

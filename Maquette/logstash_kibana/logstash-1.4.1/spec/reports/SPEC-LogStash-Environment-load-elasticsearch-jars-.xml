@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Environment load_elasticsearch_jars!" tests="2" time="0.015" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Environment load_elasticsearch_jars! should load elasticsarch jars" time="0.011">
+  </testcase>
+  <testcase name="LogStash::Environment load_elasticsearch_jars! should raise when cannot find elasticsarch jars" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

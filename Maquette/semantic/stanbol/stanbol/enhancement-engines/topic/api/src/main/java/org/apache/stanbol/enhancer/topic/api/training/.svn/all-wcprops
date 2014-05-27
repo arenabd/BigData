@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/api/src/main/java/org/apache/stanbol/enhancer/topic/api/training
+END
+TrainingSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/api/src/main/java/org/apache/stanbol/enhancer/topic/api/training/TrainingSet.java
+END
+Example.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/api/src/main/java/org/apache/stanbol/enhancer/topic/api/training/Example.java
+END
+TrainingSetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/api/src/main/java/org/apache/stanbol/enhancer/topic/api/training/TrainingSetException.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Date failed parses should not cause a failure (LOGSTASH-641)" tests="1" time="0.01" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Date failed parses should not cause a failure (LOGSTASH-641) agent(/home/jenkins/workspace/Logstash_Nightly/logstash/spec/filters/date.rb:185:in) runs" time="0.01">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

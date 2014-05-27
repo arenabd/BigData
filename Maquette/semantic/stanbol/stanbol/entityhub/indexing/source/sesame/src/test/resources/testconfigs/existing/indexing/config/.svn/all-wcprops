@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1541111/stanbol/trunk/entityhub/indexing/source/sesame/src/test/resources/testconfigs/existing/indexing/config
+END
+memory.ttl
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1541111/stanbol/trunk/entityhub/indexing/source/sesame/src/test/resources/testconfigs/existing/indexing/config/memory.ttl
+END
+indexFieldConfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1541111/stanbol/trunk/entityhub/indexing/source/sesame/src/test/resources/testconfigs/existing/indexing/config/indexFieldConfig.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1541111/stanbol/trunk/entityhub/indexing/source/sesame/src/test/resources/testconfigs/existing/indexing/config/indexing.properties
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/test/java/org/apache/stanbol/commons/jsonld
+END
+JsonLdTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/test/java/org/apache/stanbol/commons/jsonld/JsonLdTest.java
+END
+JsonLdProfileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/test/java/org/apache/stanbol/commons/jsonld/JsonLdProfileTest.java
+END
+JsonLdParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/test/java/org/apache/stanbol/commons/jsonld/JsonLdParserTest.java
+END
+JsonLdProfileParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jsonld/src/test/java/org/apache/stanbol/commons/jsonld/JsonLdProfileParserTest.java
+END

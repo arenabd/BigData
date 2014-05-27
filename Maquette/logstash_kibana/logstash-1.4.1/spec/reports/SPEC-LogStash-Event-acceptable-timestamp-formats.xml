@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Event acceptable @timestamp formats" tests="5" time="0.017" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Event acceptable @timestamp formats includes YYYY-MM-dd'T'HH:mm:ss.SSSZ" time="0.012">
+  </testcase>
+  <testcase name="LogStash::Event acceptable @timestamp formats includes YYYY-MM-dd'T'HH:mm:ss.SSS" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event acceptable @timestamp formats includes YYYY-MM-dd'T'HH:mm:ss.SSSSSSZ" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event acceptable @timestamp formats includes YYYY-MM-dd'T'HH:mm:ss" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event acceptable @timestamp formats includes YYYY-MM-dd'T'HH:mm:ssZ" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

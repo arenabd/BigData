@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/main/java/org/apache/stanbol/enhancer/engines/kuromoji/impl
+END
+NerData.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/main/java/org/apache/stanbol/enhancer/engines/kuromoji/impl/NerData.java
+END
+KuromojiNlpEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/kuromoji-nlp/src/main/java/org/apache/stanbol/enhancer/engines/kuromoji/impl/KuromojiNlpEngine.java
+END

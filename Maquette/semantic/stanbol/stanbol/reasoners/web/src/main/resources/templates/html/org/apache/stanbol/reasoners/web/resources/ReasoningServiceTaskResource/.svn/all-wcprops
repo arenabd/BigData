@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/html/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource
+END
+result.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/html/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource/result.ftl
+END
+created.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/html/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource/created.ftl
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/html/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource/index.ftl
+END
+ontonet-session.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1534107/stanbol/trunk/reasoners/web/src/main/resources/templates/html/org/apache/stanbol/reasoners/web/resources/ReasoningServiceTaskResource/ontonet-session.ftl
+END

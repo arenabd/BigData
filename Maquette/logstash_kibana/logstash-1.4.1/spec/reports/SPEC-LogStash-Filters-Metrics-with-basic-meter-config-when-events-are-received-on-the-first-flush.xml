@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Metrics with basic meter config when events are received on the first flush" tests="2" time="0.008" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Metrics with basic meter config when events are received on the first flush should flush counts" time="0.003">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with basic meter config when events are received on the first flush should include rates and percentiles" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

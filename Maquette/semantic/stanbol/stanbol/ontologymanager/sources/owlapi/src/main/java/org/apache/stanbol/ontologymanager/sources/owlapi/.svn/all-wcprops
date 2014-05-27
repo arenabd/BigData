@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi
+END
+RootOntologySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/RootOntologySource.java
+END
+AbstractOWLOntologyInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/AbstractOWLOntologyInputSource.java
+END
+BlankOntologySource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/BlankOntologySource.java
+END
+OntologyContentInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/OntologyContentInputSource.java
+END
+OntologySpaceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/OntologySpaceSource.java
+END
+ParentPathInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/main/java/org/apache/stanbol/ontologymanager/sources/owlapi/ParentPathInputSource.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1559644/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl
+END
+PosTagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534507/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/PosTagSupport.java
+END
+PhraseTagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1534507/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/PhraseTagSupport.java
+END
+NerTagSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534507/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/NerTagSupport.java
+END
+MorphoFeaturesSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534507/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/MorphoFeaturesSupport.java
+END
+CorefFeatureSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1559644/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/CorefFeatureSupport.java
+END
+DependencyRelationSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1559644/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/valuetype/impl/DependencyRelationSupport.java
+END

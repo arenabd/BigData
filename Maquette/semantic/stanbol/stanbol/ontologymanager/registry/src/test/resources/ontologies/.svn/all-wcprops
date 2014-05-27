@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies
+END
+maincharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/maincharacters.owl
+END
+minorcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/minorcharacters.owl
+END
+allcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/allcharacters.owl
+END
+droppedcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/droppedcharacters.owl
+END
+nonexistentcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/nonexistentcharacters.owl
+END
+mockfoaf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/mockfoaf.rdf
+END
+test1.owl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/test1.owl
+END
+nameless_ontology.owl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/test/resources/ontologies/nameless_ontology.owl
+END

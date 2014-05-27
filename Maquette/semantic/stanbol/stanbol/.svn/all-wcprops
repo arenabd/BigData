@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/asf/!svn/ver/1593914/stanbol/trunk
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/asf/!svn/ver/1560324/stanbol/trunk/README.md
+END
+nbactions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/asf/!svn/ver/1534107/stanbol/trunk/nbactions.xml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/asf/!svn/ver/1538404/stanbol/trunk/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repos/asf/!svn/ver/1538898/stanbol/trunk/pom.xml
+END

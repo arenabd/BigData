@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/java/org/apache/stanbol/ontologymanager/sources/owlapi
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/java/org/apache/stanbol/ontologymanager/sources/owlapi/Constants.java
+END
+TestOWLAPIInputSources.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/java/org/apache/stanbol/ontologymanager/sources/owlapi/TestOWLAPIInputSources.java
+END
+Entities.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/java/org/apache/stanbol/ontologymanager/sources/owlapi/Entities.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies
+END
+characters_all.owl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/characters_all.owl
+END
+versiontest_v1.owl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/versiontest_v1.owl
+END
+versiontest_v2.owl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/versiontest_v2.owl
+END
+droppedcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/droppedcharacters.owl
+END
+nonexistentcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/nonexistentcharacters.owl
+END
+mockfoaf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/mockfoaf.rdf
+END
+test1.owl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/test1.owl
+END
+nameless_ontology.owl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/nameless_ontology.owl
+END
+maincharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/maincharacters.owl
+END
+minorcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/resources/ontologies/minorcharacters.owl
+END

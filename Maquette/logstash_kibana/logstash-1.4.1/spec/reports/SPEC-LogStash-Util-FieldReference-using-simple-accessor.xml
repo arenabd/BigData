@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Util::FieldReference using simple accessor" tests="4" time="0.002" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Util::FieldReference using simple accessor should retrieve value" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::FieldReference using simple accessor should handle delete in block" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Util::FieldReference using simple accessor should handle assignment in block" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Util::FieldReference using simple accessor should handle assignment using set" time="0.0">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

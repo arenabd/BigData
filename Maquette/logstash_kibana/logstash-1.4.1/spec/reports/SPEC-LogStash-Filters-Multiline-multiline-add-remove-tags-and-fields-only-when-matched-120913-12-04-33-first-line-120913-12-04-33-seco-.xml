@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Multiline multiline add/remove tags and fields only when matched &quot;[&quot;120913 12:04:33 first line&quot;,&quot;120913 12:04:33 seco...&quot;" tests="1" time="0.024" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Multiline multiline add/remove tags and fields only when matched &quot;[&quot;120913 12:04:33 first line&quot;,&quot;120913 12:04:33 seco...&quot; when processed" time="0.022">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

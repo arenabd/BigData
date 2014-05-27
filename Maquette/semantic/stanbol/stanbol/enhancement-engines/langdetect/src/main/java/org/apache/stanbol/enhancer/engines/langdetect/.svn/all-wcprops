@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/langdetect/src/main/java/org/apache/stanbol/enhancer/engines/langdetect
+END
+LanguageIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/langdetect/src/main/java/org/apache/stanbol/enhancer/engines/langdetect/LanguageIdentifier.java
+END
+LanguageDetectionEnhancementEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1587561/stanbol/trunk/enhancement-engines/langdetect/src/main/java/org/apache/stanbol/enhancer/engines/langdetect/LanguageDetectionEnhancementEngine.java
+END

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::EDN#decode" tests="1" time="0.009" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::EDN#decode should return an event from edn data" time="0.009">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

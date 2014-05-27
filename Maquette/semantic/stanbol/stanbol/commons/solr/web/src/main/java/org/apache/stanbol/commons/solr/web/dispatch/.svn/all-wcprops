@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/web/src/main/java/org/apache/stanbol/commons/solr/web/dispatch
+END
+SolrServiceDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/web/src/main/java/org/apache/stanbol/commons/solr/web/dispatch/SolrServiceDispatchFilter.java
+END
+ReferencedSolrDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/web/src/main/java/org/apache/stanbol/commons/solr/web/dispatch/ReferencedSolrDispatchFilter.java
+END
+DelegatingSolrDispatchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/web/src/main/java/org/apache/stanbol/commons/solr/web/dispatch/DelegatingSolrDispatchFilter.java
+END

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::JSONLines#decode" tests="2" time="0.002" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::JSONLines#decode should return an event from json data" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Codecs::JSONLines#decode should return an event from json data when a newline is recieved" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

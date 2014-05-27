@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/resources/ontologies
+END
+maincharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/resources/ontologies/maincharacters.owl
+END
+mockfoaf.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/resources/ontologies/mockfoaf.rdf
+END
+dummy-01.turtle.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/owlapi/src/test/resources/ontologies/dummy-01.turtle.rdf
+END

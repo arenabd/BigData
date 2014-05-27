@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl
+END
+CeliAnalyzedTextSentimentAnalysisEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/CeliAnalyzedTextSentimentAnalysisEngineTest.java
+END
+CeliSentimentAnalysisEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi/sentimentanalysis/impl/CeliSentimentAnalysisEngineTest.java
+END

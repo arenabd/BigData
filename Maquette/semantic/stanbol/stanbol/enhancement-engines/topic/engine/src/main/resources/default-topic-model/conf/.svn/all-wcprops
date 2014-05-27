@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/main/resources/default-topic-model/conf
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/main/resources/default-topic-model/conf/solrconfig.xml
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/topic/engine/src/main/resources/default-topic-model/conf/schema.xml
+END

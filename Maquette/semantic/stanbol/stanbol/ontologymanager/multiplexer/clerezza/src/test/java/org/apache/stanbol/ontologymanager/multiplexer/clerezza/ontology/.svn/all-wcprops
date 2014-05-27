@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology
+END
+TestAliasing.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/TestAliasing.java
+END
+TestClerezzaProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/TestClerezzaProvider.java
+END
+TestOntologyReconciliation.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/multiplexer/clerezza/src/test/java/org/apache/stanbol/ontologymanager/multiplexer/clerezza/ontology/TestOntologyReconciliation.java
+END

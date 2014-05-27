@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/geonames/src/main/resources/org/apache/stanbol/data/site/geonames
+END
+geonames.solrindex.ref
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/geonames/src/main/resources/org/apache/stanbol/data/site/geonames/geonames.solrindex.ref
+END
+org.apache.stanbol.entityhub.core.site.CacheImpl-geonames.config
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/geonames/src/main/resources/org/apache/stanbol/data/site/geonames/org.apache.stanbol.entityhub.core.site.CacheImpl-geonames.config
+END
+org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-geonamesIndex.config
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/geonames/src/main/resources/org/apache/stanbol/data/site/geonames/org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-geonamesIndex.config
+END
+org.apache.stanbol.entityhub.site.referencedSite-geonames.config
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/geonames/src/main/resources/org/apache/stanbol/data/site/geonames/org.apache.stanbol.entityhub.site.referencedSite-geonames.config
+END

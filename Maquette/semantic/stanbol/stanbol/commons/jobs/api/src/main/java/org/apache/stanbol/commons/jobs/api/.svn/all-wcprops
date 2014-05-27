@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jobs/api/src/main/java/org/apache/stanbol/commons/jobs/api
+END
+JobManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jobs/api/src/main/java/org/apache/stanbol/commons/jobs/api/JobManager.java
+END
+JobInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jobs/api/src/main/java/org/apache/stanbol/commons/jobs/api/JobInfo.java
+END
+JobResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jobs/api/src/main/java/org/apache/stanbol/commons/jobs/api/JobResult.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/jobs/api/src/main/java/org/apache/stanbol/commons/jobs/api/Job.java
+END

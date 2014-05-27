@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 26
+.project
+.settings
+target
+
+K 13
+svn:mergeinfo
+V 63
+/stanbol/branches/stanbol-solr4/ontologymanager:1455112-1458685
+END

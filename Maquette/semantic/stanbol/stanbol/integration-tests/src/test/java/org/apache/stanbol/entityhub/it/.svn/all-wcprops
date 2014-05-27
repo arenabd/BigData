@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1572899/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/entityhub/it
+END
+ReferencedSiteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/entityhub/it/ReferencedSiteTest.java
+END
+EntityhubTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1537068/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/entityhub/it/EntityhubTest.java
+END
+SitesManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/entityhub/it/SitesManagerTest.java
+END
+DbpediaDefaultdataConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/entityhub/it/DbpediaDefaultdataConstants.java
+END

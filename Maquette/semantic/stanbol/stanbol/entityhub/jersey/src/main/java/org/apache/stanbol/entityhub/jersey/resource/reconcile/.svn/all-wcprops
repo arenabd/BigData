@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/reconcile
+END
+ReferencedSiteReconcileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/reconcile/ReferencedSiteReconcileResource.java
+END
+EntityhubReconcileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/reconcile/EntityhubReconcileResource.java
+END
+SiteManagerReconcileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/reconcile/SiteManagerReconcileResource.java
+END
+BaseGoogleRefineReconcileResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1593887/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/jersey/resource/reconcile/BaseGoogleRefineReconcileResource.java
+END

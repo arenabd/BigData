@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Date parsing with timezone parameter &quot;{&quot;mydate&quot;:&quot;2013 Nov 24 01:29:01&quot;}&quot;" tests="1" time="0.005" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Date parsing with timezone parameter &quot;{&quot;mydate&quot;:&quot;2013 Nov 24 01:29:01&quot;}&quot; when processed" time="0.004">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

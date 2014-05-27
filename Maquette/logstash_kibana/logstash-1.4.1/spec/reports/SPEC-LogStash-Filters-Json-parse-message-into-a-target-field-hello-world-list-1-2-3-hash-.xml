@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Json parse message into a target field &quot;{ &quot;hello&quot;: &quot;world&quot;, &quot;list&quot;: [ 1, 2, 3 ], &quot;hash&quot;: { ...&quot;" tests="1" time="0.003" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Json parse message into a target field &quot;{ &quot;hello&quot;: &quot;world&quot;, &quot;list&quot;: [ 1, 2, 3 ], &quot;hash&quot;: { ...&quot; when processed" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

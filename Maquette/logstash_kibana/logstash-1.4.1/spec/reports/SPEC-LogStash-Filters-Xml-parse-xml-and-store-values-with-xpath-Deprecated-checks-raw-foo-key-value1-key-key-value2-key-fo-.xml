@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Xml parse xml and store values with xpath (Deprecated checks) &quot;{&quot;raw&quot;:&quot;&lt;foo&gt;&lt;key&gt;value1&lt;/key&gt;&lt;key&gt;value2&lt;/key&gt;&lt;/fo...&quot;" tests="1" time="0.007" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Xml parse xml and store values with xpath (Deprecated checks) &quot;{&quot;raw&quot;:&quot;&lt;foo&gt;&lt;key&gt;value1&lt;/key&gt;&lt;key&gt;value2&lt;/key&gt;&lt;/fo...&quot; when processed" time="0.007">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

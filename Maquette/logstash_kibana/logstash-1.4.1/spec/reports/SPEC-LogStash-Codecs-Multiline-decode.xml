@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Multiline#decode" tests="3" time="0.012" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Multiline#decode should be able to handle multiline events with additional lines space-indented" time="0.005">
+  </testcase>
+  <testcase name="LogStash::Codecs::Multiline#decode should allow custom tag added to multiline events" time="0.003">
+  </testcase>
+  <testcase name="LogStash::Codecs::Multiline#decode should allow grok patterns to be used" time="0.004">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

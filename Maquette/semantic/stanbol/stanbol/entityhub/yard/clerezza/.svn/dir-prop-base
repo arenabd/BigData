@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 42
+target
+bin
+.classpath
+.project
+.settings
+
+
+K 13
+svn:mergeinfo
+V 54
+/stanbol/trunk/entityhub/yard/clerezza:1494993-1533489
+END

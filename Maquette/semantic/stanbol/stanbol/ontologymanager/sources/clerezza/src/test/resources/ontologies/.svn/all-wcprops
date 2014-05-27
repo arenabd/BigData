@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies
+END
+dummy-01.rdfxml.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies/dummy-01.rdfxml.rdf
+END
+dummy-01.turtle.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies/dummy-01.turtle.rdf
+END
+maincharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies/maincharacters.owl
+END
+minorcharacters.owl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies/minorcharacters.owl
+END
+characters_all.owl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/test/resources/ontologies/characters_all.owl
+END

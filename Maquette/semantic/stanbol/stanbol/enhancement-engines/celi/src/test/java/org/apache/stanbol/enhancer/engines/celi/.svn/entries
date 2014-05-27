@@ -1,0 +1,80 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/enhancement-engines/celi/src/test/java/org/apache/stanbol/enhancer/engines/celi
+http://svn.apache.org/repos/asf
+
+
+
+2013-03-19T09:46:18.240673Z
+1458191
+rwesten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+sentimentanalysis
+dir
+
+classification
+dir
+
+CeliHttpTest.java
+file
+
+
+
+
+2014-05-12T13:24:48.594075Z
+66be9e57f1c467f8d10e05e707889a46
+2013-03-19T09:46:18.240673Z
+1458191
+rwesten
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3218
+
+langid
+dir
+
+testutils
+dir
+
+ner
+dir
+
+lemmatizer
+dir
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Date failing to parse should not throw an exception &quot;{&quot;thedate&quot;:&quot;2013/Apr/21&quot;}&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Date failing to parse should not throw an exception &quot;{&quot;thedate&quot;:&quot;2013/Apr/21&quot;}&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

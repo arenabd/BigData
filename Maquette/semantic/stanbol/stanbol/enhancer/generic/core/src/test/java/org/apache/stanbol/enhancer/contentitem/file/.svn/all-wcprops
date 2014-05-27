@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/file
+END
+CustomDirFileContentItemFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/file/CustomDirFileContentItemFactoryTest.java
+END
+FileBlobTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/file/FileBlobTest.java
+END
+DefaultFileContentItemFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/file/DefaultFileContentItemFactoryTest.java
+END
+FileContentItemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/core/src/test/java/org/apache/stanbol/enhancer/contentitem/file/FileContentItemTest.java
+END

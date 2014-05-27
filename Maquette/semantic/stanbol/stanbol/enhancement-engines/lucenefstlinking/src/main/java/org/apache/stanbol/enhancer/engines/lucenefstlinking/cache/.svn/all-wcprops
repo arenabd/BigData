@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1572578/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/cache
+END
+EntityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/cache/EntityCache.java
+END
+SolrEntityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/repos/asf/!svn/ver/1572578/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/cache/SolrEntityCache.java
+END
+EntityCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1558748/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/cache/EntityCacheManager.java
+END
+FastLRUCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repos/asf/!svn/ver/1572578/stanbol/trunk/enhancement-engines/lucenefstlinking/src/main/java/org/apache/stanbol/enhancer/engines/lucenefstlinking/cache/FastLRUCacheManager.java
+END

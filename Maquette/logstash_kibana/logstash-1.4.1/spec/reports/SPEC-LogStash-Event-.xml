@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Event []=" tests="5" time="0.009" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Event []= should raise an exception if you attempt to set @timestamp to a value type other than a Time object" time="0.003">
+  </testcase>
+  <testcase name="LogStash::Event []= should overwrite simple fields" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Event []= should assign simple fields" time="0.001">
+  </testcase>
+  <testcase name="LogStash::Event []= should assign deep fields" time="0.0">
+  </testcase>
+  <testcase name="LogStash::Event []= should overwrite deep fields" time="0.0">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

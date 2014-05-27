@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/Entity.java
+END
+EntitySearcherException.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/EntitySearcherException.java
+END
+EntitySearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/EntitySearcher.java
+END
+LabelTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/LabelTokenizer.java
+END

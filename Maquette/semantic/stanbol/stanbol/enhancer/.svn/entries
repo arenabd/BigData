@@ -1,0 +1,123 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/enhancer
+http://svn.apache.org/repos/asf
+
+
+
+2014-05-12T05:20:35.718089Z
+1593887
+rwesten
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+jobmanager
+dir
+
+defaults
+dir
+
+data
+dir
+
+benchmark
+dir
+
+pom.xml
+file
+
+
+
+
+2014-05-12T13:24:52.982200Z
+ca0512110e2cc34dd826aca696dd600f
+2013-10-21T19:54:44.037532Z
+1534350
+fchrist
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6143
+
+generic
+dir
+
+ldpath
+dir
+
+nbactions.xml
+file
+
+
+
+
+2014-05-12T13:24:52.982200Z
+4a2bc84a2afe1a8889c265d12647f6fb
+2013-07-18T14:18:25.354052Z
+1504485
+reto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1053
+
+tools
+dir
+
+jersey
+dir
+
+chain
+dir
+

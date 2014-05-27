@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Throttle after_count exceeded &quot;[{&quot;host&quot;:&quot;server1&quot;},{&quot;host&quot;:&quot;server1&quot;},{&quot;host&quot;:&quot;ser...&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Throttle after_count exceeded &quot;[{&quot;host&quot;:&quot;server1&quot;},{&quot;host&quot;:&quot;server1&quot;},{&quot;host&quot;:&quot;ser...&quot; when processed" time="0.005">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

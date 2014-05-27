@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Grok ietf 5424 syslog line &quot;&lt;30&gt;1 2014-04-04T16:44:07+02:00 osctrl01 - 8048 - -...&quot;" tests="1" time="0.028" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Grok ietf 5424 syslog line &quot;&lt;30&gt;1 2014-04-04T16:44:07+02:00 osctrl01 - 8048 - -...&quot; when processed" time="0.027">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

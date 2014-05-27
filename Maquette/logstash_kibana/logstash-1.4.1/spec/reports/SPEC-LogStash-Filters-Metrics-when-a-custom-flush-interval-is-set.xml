@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Metrics when a custom flush_interval is set" tests="1" time="0.002" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Metrics when a custom flush_interval is set should flush only when required" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

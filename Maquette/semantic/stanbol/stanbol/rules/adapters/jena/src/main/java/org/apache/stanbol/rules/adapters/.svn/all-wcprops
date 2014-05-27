@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1587814/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters
+END
+AbstractRuleAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/AbstractRuleAdapter.java
+END
+AdaptableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/AdaptableAtom.java
+END
+AbstractAdaptableAtom.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/adapters/jena/src/main/java/org/apache/stanbol/rules/adapters/AbstractAdaptableAtom.java
+END

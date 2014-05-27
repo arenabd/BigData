@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="... &quot;192.168.1.1 - - [25/Mar/2013:20:33:56 +0000] &quot;GET /...&quot;" tests="1" time="0.001" failures="0" errors="0" skipped="0">
+  <testcase name="... &quot;192.168.1.1 - - [25/Mar/2013:20:33:56 +0000] &quot;GET /...&quot; when processed" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

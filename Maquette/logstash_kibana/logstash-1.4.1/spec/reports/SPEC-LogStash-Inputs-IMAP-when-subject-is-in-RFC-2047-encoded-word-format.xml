@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Inputs::IMAP when subject is in RFC 2047 encoded-word format" tests="1" time="0.028" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Inputs::IMAP when subject is in RFC 2047 encoded-word format should be decoded" time="0.028">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

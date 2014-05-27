@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 98
+.classpath
+.project
+.settings
+.settings/
+target
+target/
+sling
+stanbol
+
+dependency-reduced-pom.xml
+
+END

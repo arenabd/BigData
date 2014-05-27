@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1588186/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/it
+END
+DefaultConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/it/DefaultConfigTest.java
+END
+OsgiConsoleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1588186/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/it/OsgiConsoleTest.java
+END
+HomepageTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/integration-tests/src/test/java/org/apache/stanbol/it/HomepageTest.java
+END

@@ -1,0 +1,80 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/entityhub/generic/test/src/main/java/org/apache/stanbol/entityhub/test
+http://svn.apache.org/repos/asf
+
+
+
+2014-04-15T13:03:08.522151Z
+1587568
+rwesten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+it
+dir
+
+yard
+dir
+
+model
+dir
+
+Utils.java
+file
+
+
+
+
+2014-05-12T13:24:51.162148Z
+8b201f2bc6e8cb0ba6eeaa0523477433
+2011-05-16T10:15:31.094092Z
+1103672
+ogrisel
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1454
+
+site
+dir
+
+query
+dir
+
+mapping
+dir
+

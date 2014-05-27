@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1587825/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core
+END
+IndexerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/IndexerTest.java
+END
+ResourceLoaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/ResourceLoaderTest.java
+END
+DummyEntityDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/DummyEntityDataSource.java
+END
+DummyIndexingDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/DummyIndexingDestination.java
+END
+ConfigTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/ConfigTest.java
+END
+DummyEntityScoreSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/DummyEntityScoreSource.java
+END
+DummyEntityIdSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/core/src/test/java/org/apache/stanbol/entityhub/indexing/core/DummyEntityIdSource.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/namespaceprefix/service/src/main/java/org/apache/stanbol/commons/namespaceprefix
+END
+NamespacePrefixProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/namespaceprefix/service/src/main/java/org/apache/stanbol/commons/namespaceprefix/NamespacePrefixProvider.java
+END
+NamespaceMappingUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/namespaceprefix/service/src/main/java/org/apache/stanbol/commons/namespaceprefix/NamespaceMappingUtils.java
+END
+NamespacePrefixService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/namespaceprefix/service/src/main/java/org/apache/stanbol/commons/namespaceprefix/NamespacePrefixService.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config
+END
+org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-dbpedia.config
+END
+org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpediapropernoun.config
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpediapropernoun.config
+END
+org.apache.stanbol.enhancer.chain.allactive.impl.DefaultChain.properties
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.allactive.impl.DefaultChain.properties
+END
+org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-entityhub.config
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-entityhub.config
+END
+org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-language.config
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-language.config
+END
+org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpedia_fst.config
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpedia_fst.config
+END
+org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-default.config
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-default.config
+END
+org.apache.stanbol.enhancer.engines.dereference.entityhub.EntityhubDereferenceEngine-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.engines.dereference.entityhub.EntityhubDereferenceEngine-dbpedia.config
+END
+org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpediadisambiguation.config
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.chain.weighted.impl.WeightedChain-dbpediadisambiguation.config
+END
+org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-dbpediadisamblinking.config
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/repos/asf/!svn/ver/1547116/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.engines.entityhublinking.EntityhubLinkingEngine-dbpediadisamblinking.config
+END
+org.apache.stanbol.enhancer.engines.lucenefstlinking.FstLinkingEngineComponent-dbpedia_fst.config
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/repos/asf/!svn/ver/1534550/stanbol/trunk/data/defaultconfig/src/main/resources/config/org.apache.stanbol.enhancer.engines.lucenefstlinking.FstLinkingEngineComponent-dbpedia_fst.config
+END

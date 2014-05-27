@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancer/generic/nlp-json/src/test/java/org/apache/stanbol/enhancer/nlp/json/valuetype
+END
+CorefFeatureSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancer/generic/nlp-json/src/test/java/org/apache/stanbol/enhancer/nlp/json/valuetype/CorefFeatureSupportTest.java
+END
+DependencyRelationSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancer/generic/nlp-json/src/test/java/org/apache/stanbol/enhancer/nlp/json/valuetype/DependencyRelationSupportTest.java
+END
+ValueTypeSupportTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1552248/stanbol/trunk/enhancer/generic/nlp-json/src/test/java/org/apache/stanbol/enhancer/nlp/json/valuetype/ValueTypeSupportTest.java
+END

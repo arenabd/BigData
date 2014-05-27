@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/install/src/main/java/org/apache/stanbol/commons/solr/install/impl
+END
+SolrIndexInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/install/src/main/java/org/apache/stanbol/commons/solr/install/impl/SolrIndexInstaller.java
+END
+IndexRemoveTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/install/src/main/java/org/apache/stanbol/commons/solr/install/impl/IndexRemoveTask.java
+END
+IndexInstallTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/install/src/main/java/org/apache/stanbol/commons/solr/install/impl/IndexInstallTask.java
+END

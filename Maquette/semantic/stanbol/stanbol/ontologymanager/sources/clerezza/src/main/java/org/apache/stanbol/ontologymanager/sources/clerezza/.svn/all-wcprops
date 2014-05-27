@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1587561/stanbol/trunk/ontologymanager/sources/clerezza/src/main/java/org/apache/stanbol/ontologymanager/sources/clerezza
+END
+GraphSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1587561/stanbol/trunk/ontologymanager/sources/clerezza/src/main/java/org/apache/stanbol/ontologymanager/sources/clerezza/GraphSource.java
+END
+AbstractClerezzaGraphInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/main/java/org/apache/stanbol/ontologymanager/sources/clerezza/AbstractClerezzaGraphInputSource.java
+END
+GraphContentInputSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/sources/clerezza/src/main/java/org/apache/stanbol/ontologymanager/sources/clerezza/GraphContentInputSource.java
+END

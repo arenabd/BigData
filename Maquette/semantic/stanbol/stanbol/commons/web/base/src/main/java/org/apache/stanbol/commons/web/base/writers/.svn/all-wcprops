@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers
+END
+GraphWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1537152/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/GraphWriter.java
+END
+JsonLdSerializerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1551140/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/JsonLdSerializerProvider.java
+END
+ResultSetToXml.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/ResultSetToXml.java
+END
+JenaModelTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/JenaModelTransformer.java
+END
+ResultSetWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1537148/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/ResultSetWriter.java
+END
+JenaModelWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1537148/stanbol/trunk/commons/web/base/src/main/java/org/apache/stanbol/commons/web/base/writers/JenaModelWriter.java
+END

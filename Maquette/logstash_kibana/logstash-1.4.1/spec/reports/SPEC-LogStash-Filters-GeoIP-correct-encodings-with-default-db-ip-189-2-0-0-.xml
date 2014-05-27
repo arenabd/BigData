@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::GeoIP correct encodings with default db &quot;{&quot;ip&quot;:&quot;189.2.0.0&quot;}&quot;" tests="1" time="0.006" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::GeoIP correct encodings with default db &quot;{&quot;ip&quot;:&quot;189.2.0.0&quot;}&quot; when processed" time="0.004">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api
+END
+IllegalRegistryCycleException.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/IllegalRegistryCycleException.java
+END
+RegistryContentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryContentException.java
+END
+RegistryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryManager.java
+END
+LibraryContentNotLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/LibraryContentNotLoadedException.java
+END
+RegistryContentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryContentListener.java
+END
+RegistryOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryOperation.java
+END
+RegistryOntologyNotLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryOntologyNotLoadedException.java
+END
+RegistryItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryItemFactory.java
+END
+RegistryItemIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/registry/src/main/java/org/apache/stanbol/ontologymanager/registry/api/RegistryItemIndex.java
+END

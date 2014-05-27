@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/SessionResource
+END
+index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/SessionResource/index.ftl
+END
+ontology.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/ontologymanager/web/src/main/resources/templates/html/org/apache/stanbol/ontologymanager/web/resources/SessionResource/ontology.ftl
+END

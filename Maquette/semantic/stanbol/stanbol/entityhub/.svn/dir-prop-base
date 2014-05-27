@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 109
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+.metadata
+
+K 13
+svn:mergeinfo
+V 171
+/stanbol/branches/release-0.12/entityhub:1572588,1581735,1587824,1587844
+/stanbol/branches/stanbol-solr4/entityhub:1455112-1458685
+/stanbol/trunk/entityhub:1494993-1533392
+END

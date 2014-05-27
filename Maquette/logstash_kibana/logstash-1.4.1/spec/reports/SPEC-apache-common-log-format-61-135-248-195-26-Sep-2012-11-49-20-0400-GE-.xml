@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="apache common log format &quot;61.135.248.195 - - [26/Sep/2012:11:49:20 -0400] &quot;GE...&quot;" tests="1" time="0.013" failures="0" errors="0" skipped="0">
+  <testcase name="apache common log format &quot;61.135.248.195 - - [26/Sep/2012:11:49:20 -0400] &quot;GE...&quot; when processed" time="0.013">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

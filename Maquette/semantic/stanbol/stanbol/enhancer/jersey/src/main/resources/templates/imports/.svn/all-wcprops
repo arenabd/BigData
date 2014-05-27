@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports
+END
+contentitem.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports/contentitem.ftl
+END
+enhancerweb.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports/enhancerweb.ftl
+END
+entities.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports/entities.ftl
+END
+executionmetadata.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports/executionmetadata.ftl
+END
+enhancersparql.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/resources/templates/imports/enhancersparql.ftl
+END

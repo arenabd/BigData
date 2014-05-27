@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="grok known timeout failures user reported timeout &quot;Nov 13 19:23:34 qa-api1 glassfish: [#|2012-11-13T19...&quot;" tests="1" time="0.001" failures="0" errors="0" skipped="0">
+  <testcase name="grok known timeout failures user reported timeout &quot;Nov 13 19:23:34 qa-api1 glassfish: [#|2012-11-13T19...&quot; when processed" time="0.0">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

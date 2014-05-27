@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/generic/test/src/main/java/org/apache/stanbol/entityhub/test/it
+END
+EntityhubTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1551557/stanbol/trunk/entityhub/generic/test/src/main/java/org/apache/stanbol/entityhub/test/it/EntityhubTestBase.java
+END
+AssertEntityhubJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/generic/test/src/main/java/org/apache/stanbol/entityhub/test/it/AssertEntityhubJson.java
+END

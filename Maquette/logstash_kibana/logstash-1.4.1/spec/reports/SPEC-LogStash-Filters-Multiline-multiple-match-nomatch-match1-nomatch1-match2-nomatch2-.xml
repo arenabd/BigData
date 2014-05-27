@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Multiline multiple match/nomatch &quot;[&quot;  match1&quot;,&quot;nomatch1&quot;,&quot;  match2&quot;,&quot;nomatch2&quot;]&quot;" tests="1" time="0.017" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Multiline multiple match/nomatch &quot;[&quot;  match1&quot;,&quot;nomatch1&quot;,&quot;  match2&quot;,&quot;nomatch2&quot;]&quot; when processed" time="0.017">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

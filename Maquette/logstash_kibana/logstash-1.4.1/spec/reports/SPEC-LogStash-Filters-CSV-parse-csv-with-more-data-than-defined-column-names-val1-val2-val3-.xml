@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::CSV parse csv with more data than defined column names &quot;val1,val2,val3&quot;" tests="1" time="0.01" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::CSV parse csv with more data than defined column names &quot;val1,val2,val3&quot; when processed" time="0.009">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

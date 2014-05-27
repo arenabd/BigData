@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1587814/stanbol/trunk/commons/owl/src/main/java/org/apache/stanbol/commons/owl/util
+END
+OWL2Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/owl/src/main/java/org/apache/stanbol/commons/owl/util/OWL2Constants.java
+END
+URIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1587814/stanbol/trunk/commons/owl/src/main/java/org/apache/stanbol/commons/owl/util/URIUtils.java
+END
+OWLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1587561/stanbol/trunk/commons/owl/src/main/java/org/apache/stanbol/commons/owl/util/OWLUtils.java
+END

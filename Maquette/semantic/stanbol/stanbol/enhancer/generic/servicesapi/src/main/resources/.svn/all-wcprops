@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/resources
+END
+enhancer.owl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/resources/enhancer.owl
+END
+executionmetadata.owl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/resources/executionmetadata.owl
+END
+fise.owl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/resources/fise.owl
+END
+executionplan.owl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/servicesapi/src/main/resources/executionplan.owl
+END

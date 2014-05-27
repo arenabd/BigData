@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/protwords.txt
+END
+admin-extra.menu-bottom.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/admin-extra.menu-bottom.html
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/stopwords.txt
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/elevate.xml
+END
+synonyms_de.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/synonyms_de.txt
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/mapping-ISOLatin1Accent.txt
+END
+currency.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/currency.xml
+END
+stopwords_de.txt
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/stopwords_de.txt
+END
+update-script.js
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/update-script.js
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/schema.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/solrconfig.xml
+END
+mapping-FoldToASCII.txt
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/mapping-FoldToASCII.txt
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/scripts.conf
+END
+admin-extra.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/admin-extra.html
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/spellings.txt
+END
+admin-extra.menu-top.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/dbpedia/src/main/resources/indexing/config/dbpedia/conf/admin-extra.menu-top.html
+END

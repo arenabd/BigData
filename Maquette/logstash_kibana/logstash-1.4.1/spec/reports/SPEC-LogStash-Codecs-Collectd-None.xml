@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::Collectd None" tests="2" time="0.075" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::Collectd None should parse a normal packet" time="0.047">
+  </testcase>
+  <testcase name="LogStash::Codecs::Collectd None should drop a part with an header length" time="0.027">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

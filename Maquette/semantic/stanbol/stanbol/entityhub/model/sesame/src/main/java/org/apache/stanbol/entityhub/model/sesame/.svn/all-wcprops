@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame
+END
+RdfBNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfBNode.java
+END
+ValueTypeFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1581736/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/ValueTypeFilter.java
+END
+RdfReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfReference.java
+END
+RdfWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfWrapper.java
+END
+RdfRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1581736/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfRepresentation.java
+END
+RdfText.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfText.java
+END
+RdfValueFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1534350/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/RdfValueFactory.java
+END
+ModelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1587512/stanbol/trunk/entityhub/model/sesame/src/main/java/org/apache/stanbol/entityhub/model/sesame/ModelUtils.java
+END

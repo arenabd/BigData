@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="http dates &quot;{&quot;timestamp&quot;:&quot;25/Mar/2013:20:33:56 +0000&quot;}&quot;" tests="1" time="0.007" failures="0" errors="0" skipped="0">
+  <testcase name="http dates &quot;{&quot;timestamp&quot;:&quot;25/Mar/2013:20:33:56 +0000&quot;}&quot; when processed" time="0.007">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

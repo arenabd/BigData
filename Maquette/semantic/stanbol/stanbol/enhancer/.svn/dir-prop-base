@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 109
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+.metadata
+
+K 13
+svn:mergeinfo
+V 340
+/incubator/stanbol/branches/dbpedia-spotlight-engines:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer:1386989-1388016
+/stanbol/branches/release-0.12/enhancer:1572588,1587573,1587860,1588449
+/stanbol/branches/stanbol-nlp-processing/enhancer:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancer:1455112-1458685
+END

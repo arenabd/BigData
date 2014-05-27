@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 26
+target
+.settings
+.project
+
+K 13
+svn:mergeinfo
+V 194
+/incubator/stanbol/branches/jena-reasoners/reasoners:1156596-1163703
+/incubator/stanbol/branches/lto-reasoners/reasoners:1180011-1205767
+/stanbol/branches/stanbol-solr4/reasoners:1455112-1458685
+END

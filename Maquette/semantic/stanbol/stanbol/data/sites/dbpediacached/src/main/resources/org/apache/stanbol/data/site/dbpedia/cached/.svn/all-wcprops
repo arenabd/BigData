@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/dbpediacached/src/main/resources/org/apache/stanbol/data/site/dbpedia/cached
+END
+org.apache.stanbol.enhancer.engines.entitytagging.impl.NamedEntityTaggingEngine-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/dbpediacached/src/main/resources/org/apache/stanbol/data/site/dbpedia/cached/org.apache.stanbol.enhancer.engines.entitytagging.impl.NamedEntityTaggingEngine-dbpedia.config
+END
+org.apache.stanbol.entityhub.site.referencedSite-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/dbpediacached/src/main/resources/org/apache/stanbol/data/site/dbpedia/cached/org.apache.stanbol.entityhub.site.referencedSite-dbpedia.config
+END
+org.apache.stanbol.entityhub.core.site.CacheImpl-dbpedia.config
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/dbpediacached/src/main/resources/org/apache/stanbol/data/site/dbpedia/cached/org.apache.stanbol.entityhub.core.site.CacheImpl-dbpedia.config
+END
+org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-dbpediaCache.config
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/repos/asf/!svn/ver/1534107/stanbol/trunk/data/sites/dbpediacached/src/main/resources/org/apache/stanbol/data/site/dbpedia/cached/org.apache.stanbol.entityhub.yard.solr.impl.SolrYard-dbpediaCache.config
+END

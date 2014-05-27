@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/model
+END
+EntityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/model/EntityImpl.java
+END
+InMemoryRepresentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/model/InMemoryRepresentation.java
+END
+InMemoryValueFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/generic/core/src/main/java/org/apache/stanbol/entityhub/core/model/InMemoryValueFactory.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/resources/META-INF/services
+END
+org.apache.stanbol.commons.stanboltools.datafileprovider.DataFileProvider
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/resources/META-INF/services/org.apache.stanbol.commons.stanboltools.datafileprovider.DataFileProvider
+END
+org.apache.stanbol.commons.solr.managed.ManagedSolrServer
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/resources/META-INF/services/org.apache.stanbol.commons.solr.managed.ManagedSolrServer
+END
+org.apache.stanbol.commons.solr.SolrServerProvider
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/managed/src/main/resources/META-INF/services/org.apache.stanbol.commons.solr.SolrServerProvider
+END

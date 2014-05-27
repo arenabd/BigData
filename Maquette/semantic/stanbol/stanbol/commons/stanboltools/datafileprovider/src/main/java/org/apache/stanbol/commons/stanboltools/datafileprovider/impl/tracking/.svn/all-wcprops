@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/datafileprovider/src/main/java/org/apache/stanbol/commons/stanboltools/datafileprovider/impl/tracking
+END
+STATE.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/datafileprovider/src/main/java/org/apache/stanbol/commons/stanboltools/datafileprovider/impl/tracking/STATE.java
+END
+TrackingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/datafileprovider/src/main/java/org/apache/stanbol/commons/stanboltools/datafileprovider/impl/tracking/TrackingState.java
+END
+DataFileTrackerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/datafileprovider/src/main/java/org/apache/stanbol/commons/stanboltools/datafileprovider/impl/tracking/DataFileTrackerImpl.java
+END
+DataFileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/stanboltools/datafileprovider/src/main/java/org/apache/stanbol/commons/stanboltools/datafileprovider/impl/tracking/DataFileReference.java
+END

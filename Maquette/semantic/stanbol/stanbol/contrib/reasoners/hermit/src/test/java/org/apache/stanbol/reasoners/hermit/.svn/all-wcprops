@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/java/org/apache/stanbol/reasoners/hermit
+END
+TestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/java/org/apache/stanbol/reasoners/hermit/TestData.java
+END
+HermitReasoningServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/java/org/apache/stanbol/reasoners/hermit/HermitReasoningServiceTest.java
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1559717/stanbol/trunk/contrib/reasoners/hermit/src/test/java/org/apache/stanbol/reasoners/hermit/TestUtils.java
+END

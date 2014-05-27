@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/RuleOntology
+END
+TestKReSOntologyRules.owl
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/RuleOntology/TestKReSOntologyRules.owl
+END
+rmi_config.owl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/RuleOntology/rmi_config.owl
+END
+OffLineKReSOntologyRules.owl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/RuleOntology/OffLineKReSOntologyRules.owl
+END
+TestRuleFileExample.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1534107/stanbol/trunk/rules/web/src/main/resources/RuleOntology/TestRuleFileExample.txt
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 26
+target
+.settings
+.project
+
+K 13
+svn:mergeinfo
+V 53
+/stanbol/branches/stanbol-solr4/rules:1455112-1458685
+END

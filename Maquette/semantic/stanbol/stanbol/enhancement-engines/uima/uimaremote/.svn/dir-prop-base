@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 37
+target
+.classpath
+.project
+.settings
+
+K 13
+svn:mergeinfo
+V 414
+/incubator/stanbol/branches/dbpedia-spotlight-engines/engines/uimaremote:1374978-1386535
+/incubator/stanbol/branches/stanbol-nlp-processing/enhancer/engines/uimaremote:1386989-1388016
+/stanbol/branches/STANBOL-913/uima/uimaremote:1443935-1448276
+/stanbol/branches/stanbol-nlp-processing/enhancer/engines/uimaremote:1388017-1413353
+/stanbol/branches/stanbol-solr4/enhancement-engines/uima/uimaremote:1455112-1458685
+END

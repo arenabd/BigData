@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/reader
+END
+RepresentationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1551134/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/reader/RepresentationReader.java
+END
+FieldQueryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1587798/stanbol/trunk/entityhub/jersey/src/main/java/org/apache/stanbol/entityhub/web/reader/FieldQueryReader.java
+END

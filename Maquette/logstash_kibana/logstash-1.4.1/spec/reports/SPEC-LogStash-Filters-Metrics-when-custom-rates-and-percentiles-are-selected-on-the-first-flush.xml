@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Metrics when custom rates and percentiles are selected on the first flush" tests="3" time="0.008" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Metrics when custom rates and percentiles are selected on the first flush should flush counts" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics when custom rates and percentiles are selected on the first flush should include only the requested rates" time="0.004">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics when custom rates and percentiles are selected on the first flush should include only the requested percentiles" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

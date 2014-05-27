@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata
+END
+Mapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/Mapping.java
+END
+TypeMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/TypeMapping.java
+END
+PropertyMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/PropertyMapping.java
+END
+ResourceMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/ResourceMapping.java
+END
+ConstantMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/ConstantMapping.java
+END
+OntologyMappings.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/tika/src/main/java/org/apache/stanbol/enhancer/engines/tika/metadata/OntologyMappings.java
+END

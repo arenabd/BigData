@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Inputs::IMAP with multiple values for same header" tests="2" time="0.064" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Inputs::IMAP with multiple values for same header should add 2 values as array in event" time="0.031">
+  </testcase>
+  <testcase name="LogStash::Inputs::IMAP with multiple values for same header should add more than 2 values as array in event" time="0.032">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

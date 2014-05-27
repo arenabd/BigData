@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Filters::Metrics with timer config on the first flush" tests="7" time="0.031" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should flush counts" time="0.003">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include max value" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include stddev value" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include rates and percentiles keys" time="0.017">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include min value" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include mean value" time="0.002">
+  </testcase>
+  <testcase name="LogStash::Filters::Metrics with timer config on the first flush should include percentile value" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 74
+data
+
+target
+
+.settings
+
+.classpath
+
+.project
+
+dependency-reduced-pom.xml
+
+END

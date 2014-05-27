@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/langid/src/test/java/org/apache/stanbol/enhancer/engines/langid
+END
+MockComponentContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/langid/src/test/java/org/apache/stanbol/enhancer/engines/langid/MockComponentContext.java
+END
+LangIdEngineTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/langid/src/test/java/org/apache/stanbol/enhancer/engines/langid/LangIdEngineTest.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/impl
+END
+OsgiResourceLoaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1587512/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/impl/OsgiResourceLoaderUtil.java
+END
+OsgiSolrResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1551872/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/impl/OsgiSolrResourceLoader.java
+END
+OsgiZkSolrResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1551872/stanbol/trunk/commons/solr/core/src/main/java/org/apache/stanbol/commons/solr/impl/OsgiZkSolrResourceLoader.java
+END

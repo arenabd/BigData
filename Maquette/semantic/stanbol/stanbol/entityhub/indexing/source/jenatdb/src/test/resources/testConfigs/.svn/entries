@@ -1,0 +1,43 @@
+10
+
+dir
+1593963
+http://svn.apache.org/repos/asf/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs
+http://svn.apache.org/repos/asf
+
+
+
+2012-10-11T12:01:12.657554Z
+1397007
+rwesten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+quads
+dir
+
+bnode
+dir
+
+iterable
+dir
+
+existing
+dir
+
+provider
+dir
+

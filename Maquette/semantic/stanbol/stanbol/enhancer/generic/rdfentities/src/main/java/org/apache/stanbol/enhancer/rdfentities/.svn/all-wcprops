@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1587568/stanbol/trunk/enhancer/generic/rdfentities/src/main/java/org/apache/stanbol/enhancer/rdfentities
+END
+Rdf.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/rdfentities/src/main/java/org/apache/stanbol/enhancer/rdfentities/Rdf.java
+END
+RdfEntityFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/rdfentities/src/main/java/org/apache/stanbol/enhancer/rdfentities/RdfEntityFactory.java
+END
+RdfEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/rdfentities/src/main/java/org/apache/stanbol/enhancer/rdfentities/RdfEntity.java
+END

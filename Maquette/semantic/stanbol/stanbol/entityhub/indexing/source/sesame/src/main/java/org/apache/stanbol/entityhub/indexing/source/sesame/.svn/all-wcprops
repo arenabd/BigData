@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/sesame/src/main/java/org/apache/stanbol/entityhub/indexing/source/sesame
+END
+RdfIndexingSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/sesame/src/main/java/org/apache/stanbol/entityhub/indexing/source/sesame/RdfIndexingSource.java
+END
+RdfResourceImporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/1541111/stanbol/trunk/entityhub/indexing/source/sesame/src/main/java/org/apache/stanbol/entityhub/indexing/source/sesame/RdfResourceImporter.java
+END
+AbstractSesameBackend.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1572899/stanbol/trunk/entityhub/indexing/source/sesame/src/main/java/org/apache/stanbol/entityhub/indexing/source/sesame/AbstractSesameBackend.java
+END

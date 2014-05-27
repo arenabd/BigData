@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource
+END
+AbstractEnhancerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1551517/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/AbstractEnhancerResource.java
+END
+EnhancerRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1551517/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/EnhancerRootResource.java
+END
+ChainsRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1551552/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/ChainsRootResource.java
+END
+ContentItemResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/ContentItemResource.java
+END
+EnginesRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/EnginesRootResource.java
+END
+GenericEnhancerUiResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1587805/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/GenericEnhancerUiResource.java
+END
+EnhancementEnginesRootResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/asf/!svn/ver/1551552/stanbol/trunk/enhancer/jersey/src/main/java/org/apache/stanbol/enhancer/jersey/resource/EnhancementEnginesRootResource.java
+END

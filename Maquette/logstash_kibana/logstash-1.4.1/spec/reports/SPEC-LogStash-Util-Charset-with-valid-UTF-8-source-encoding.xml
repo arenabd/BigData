@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Util::Charset with valid UTF-8 source encoding" tests="1" time="0.002" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Util::Charset with valid UTF-8 source encoding should return untouched data" time="0.002">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

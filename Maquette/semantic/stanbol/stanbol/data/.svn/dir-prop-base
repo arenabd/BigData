@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 109
+target
+bin
+*.iml
+*.ipr
+*.iws
+.settings
+.project
+.classpath
+.externalToolBuilders
+maven-eclipse.xml
+.metadata
+
+K 13
+svn:mergeinfo
+V 230
+/incubator/stanbol/branches/stanbol-nlp-processing/data:1386990-1388016
+/stanbol/branches/release-0.12/data:1581830
+/stanbol/branches/stanbol-nlp-processing/data:1388017-1413358
+/stanbol/branches/stanbol-solr4/data:1455112-1458685
+END

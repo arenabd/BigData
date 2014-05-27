@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/quads/indexing/config
+END
+indexFieldConfig.txt
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/quads/indexing/config/indexFieldConfig.txt
+END
+indexing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1534107/stanbol/trunk/entityhub/indexing/source/jenatdb/src/test/resources/testConfigs/quads/indexing/config/indexing.properties
+END

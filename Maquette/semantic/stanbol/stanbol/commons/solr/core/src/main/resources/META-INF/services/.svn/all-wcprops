@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/resources/META-INF/services
+END
+org.apache.stanbol.commons.solr.SolrServerProvider
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/solr/core/src/main/resources/META-INF/services/org.apache.stanbol.commons.solr.SolrServerProvider
+END

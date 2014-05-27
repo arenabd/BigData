@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1588453/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json
+END
+AnalyzedTextSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1534542/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/AnalyzedTextSerializer.java
+END
+AnalyzedTextParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534542/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/AnalyzedTextParser.java
+END
+JsonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancer/generic/nlp-json/src/main/java/org/apache/stanbol/enhancer/nlp/json/JsonUtils.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http
+END
+BundleContextMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/BundleContextMock.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/Request.java
+END
+RequestDocumentor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/RequestDocumentor.java
+END
+RequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/RequestBuilder.java
+END
+RetryLoop.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/RetryLoop.java
+END
+ServletContextMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/ServletContextMock.java
+END
+RequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1534107/stanbol/trunk/commons/testing/http/src/main/java/org/apache/stanbol/commons/testing/http/RequestExecutor.java
+END

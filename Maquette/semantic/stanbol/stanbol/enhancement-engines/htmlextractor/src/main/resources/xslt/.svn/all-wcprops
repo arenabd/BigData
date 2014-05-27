@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt
+END
+rel-license2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/rel-license2rdf.xsl
+END
+rel-design-pattern2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/rel-design-pattern2rdf.xsl
+END
+Microformats2RDF.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/Microformats2RDF.xsl
+END
+hcal2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/hcal2rdf.xsl
+END
+hatom2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/hatom2rdf.xsl
+END
+hreview2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/hreview2rdf.xsl
+END
+geo2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/geo2rdf.xsl
+END
+xalan_functions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/xalan_functions.xsl
+END
+datetime.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/datetime.xsl
+END
+hcard2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/hcard2rdf.xsl
+END
+rdfa.xslt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/rdfa.xslt
+END
+xfolk2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/xfolk2rdf.xsl
+END
+microdata.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/microdata.xsl
+END
+htmltextextract.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/htmltextextract.xsl
+END
+functions.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/functions.xsl
+END
+rel-tag2rdf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/htmlextractor/src/main/resources/xslt/rel-tag2rdf.xsl
+END

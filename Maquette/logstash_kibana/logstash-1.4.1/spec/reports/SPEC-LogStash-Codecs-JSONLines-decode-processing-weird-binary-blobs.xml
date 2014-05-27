@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogStash::Codecs::JSONLines#decode processing weird binary blobs" tests="1" time="0.001" failures="0" errors="0" skipped="0">
+  <testcase name="LogStash::Codecs::JSONLines#decode processing weird binary blobs falls back to plain text and doesn't crash (LOGSTASH-1595)" time="0.001">
+  </testcase>
+  <system-out>
+  </system-out>
+  <system-err>
+  </system-err>
+</testsuite>

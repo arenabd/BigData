@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1535013/stanbol/trunk/development/archetypes/statefull-webmodule/src/main/resources/archetype-resources/src/main/resources/META-INF/resources/__artifactId__/styles
+END
+resource-resolver.css
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/repos/asf/!svn/ver/1535013/stanbol/trunk/development/archetypes/statefull-webmodule/src/main/resources/archetype-resources/src/main/resources/META-INF/resources/__artifactId__/styles/resource-resolver.css
+END

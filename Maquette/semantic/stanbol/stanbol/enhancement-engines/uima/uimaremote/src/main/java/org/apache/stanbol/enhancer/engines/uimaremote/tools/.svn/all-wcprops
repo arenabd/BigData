@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimaremote/src/main/java/org/apache/stanbol/enhancer/engines/uimaremote/tools
+END
+SaxUIMAServletResult2Offsets.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimaremote/src/main/java/org/apache/stanbol/enhancer/engines/uimaremote/tools/SaxUIMAServletResult2Offsets.java
+END
+UIMASimpleServletClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimaremote/src/main/java/org/apache/stanbol/enhancer/engines/uimaremote/tools/UIMASimpleServletClient.java
+END
+UIMAServletClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/uima/uimaremote/src/main/java/org/apache/stanbol/enhancer/engines/uimaremote/tools/UIMAServletClient.java
+END

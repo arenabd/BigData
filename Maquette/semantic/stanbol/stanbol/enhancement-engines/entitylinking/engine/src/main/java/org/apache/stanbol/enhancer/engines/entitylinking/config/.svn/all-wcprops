@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/config
+END
+LanguageProcessingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/repos/asf/!svn/ver/1571294/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/config/LanguageProcessingConfig.java
+END
+EntityLinkerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repos/asf/!svn/ver/1577155/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/config/EntityLinkerConfig.java
+END
+TextProcessingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repos/asf/!svn/ver/1587798/stanbol/trunk/enhancement-engines/entitylinking/engine/src/main/java/org/apache/stanbol/enhancer/engines/entitylinking/config/TextProcessingConfig.java
+END

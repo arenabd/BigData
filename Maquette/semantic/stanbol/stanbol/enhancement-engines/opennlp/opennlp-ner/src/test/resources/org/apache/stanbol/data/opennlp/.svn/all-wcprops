@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-ner/src/test/resources/org/apache/stanbol/data/opennlp
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-ner/src/test/resources/org/apache/stanbol/data/opennlp/README.md
+END
+bionlp2004-DNA-en.bin
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-ner/src/test/resources/org/apache/stanbol/data/opennlp/bionlp2004-DNA-en.bin
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1534107/stanbol/trunk/enhancement-engines/opennlp/opennlp-ner/src/test/resources/org/apache/stanbol/data/opennlp/LICENSE
+END
