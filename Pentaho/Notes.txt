@@ -1,7 +1,0 @@
-Sur Windows:
-
-Lancer pentaho user console
-
-C:\Program Files\pentaho\server\biserver-ee\start-pentaho.bat
-
-url: http://192.168.0.48:8080/
